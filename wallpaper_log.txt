@@ -1,0 +1,26 @@
+2026-06-13 11:49:42 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py', '/start']
+2026-06-13 11:49:43 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\LuffyLiveWallpaper.lnk
+2026-06-13 11:49:43 - Starting live wallpaper run routine.
+2026-06-13 11:49:43 - Target WorkerW handle identified: 133650
+2026-06-13 11:49:43 - Desktop resolution detected: 1920x1080
+2026-06-13 11:49:43 - Video dimensions: 1920x1080, FPS: 60.0
+2026-06-13 11:49:43 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-13 11:49:43 - Starting main video loop...
+2026-06-13 11:49:58 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py', '/status']
+2026-06-13 11:51:58 - Wallpaper script initialized with args: ['live_wallpaper.py', '/status']
+2026-06-13 11:57:28 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py']
+2026-06-13 11:57:28 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\LuffyLiveWallpaper.lnk
+2026-06-13 11:57:28 - Starting live wallpaper run routine.
+2026-06-13 11:57:28 - Target WorkerW handle identified: 131900
+2026-06-13 11:57:29 - Desktop resolution detected: 1920x1080
+2026-06-13 11:57:29 - Video dimensions: 1920x1080, FPS: 60.0
+2026-06-13 11:57:29 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-13 11:57:29 - Starting main video loop...
+2026-06-13 12:07:08 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py']
+2026-06-13 12:07:08 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\LuffyLiveWallpaper.lnk
+2026-06-13 12:07:08 - Starting live wallpaper run routine.
+2026-06-13 12:07:08 - Target WorkerW handle identified: 131852
+2026-06-13 12:07:08 - Desktop resolution detected: 1920x1080
+2026-06-13 12:07:08 - Video dimensions: 1920x1080, FPS: 60.0
+2026-06-13 12:07:08 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-13 12:07:08 - Starting main video loop...
