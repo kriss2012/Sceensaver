@@ -36,3 +36,14 @@
 2026-06-13 12:35:30 - Wallpaper script initialized with args: ['live_wallpaper.py', '/stop']
 2026-06-13 12:35:30 - Stop request received.
 2026-06-13 12:35:30 - Terminated running process with PID 11312.
+2026-06-13 12:35:57 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py', '/start']
+2026-06-13 12:35:57 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\LuffyLiveWallpaper.lnk
+2026-06-13 12:35:57 - Starting live wallpaper run routine.
+2026-06-13 12:35:57 - Target WorkerW handle identified: 197124
+2026-06-13 12:35:57 - Allowed screensaver in Pygame.
+2026-06-13 12:35:57 - Reset thread execution state to ES_CONTINUOUS.
+2026-06-13 12:35:57 - Desktop resolution detected: 1920x1080
+2026-06-13 12:35:58 - Wallpaper script initialized with args: ['live_wallpaper.py', '/status']
+2026-06-13 12:35:58 - Video dimensions: 1920x1080, FPS: 60.0
+2026-06-13 12:35:58 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-13 12:35:58 - Starting main video loop...
