@@ -68,6 +68,20 @@ def run_screensaver(video_path, mode, parent_hwnd):
     # Initialize pygame
     pygame.init()
     log_message("Pygame initialized.")
+    
+    # Allow screensaver to run even if Pygame window is active
+    try:
+        pygame.display.set_allow_screensaver(True)
+        log_message("Allowed screensaver in screensaver Pygame.")
+    except Exception as e:
+        log_message(f"Failed to set allow screensaver in screensaver: {e}")
+        
+    # Reset thread execution state to prevent keeping display awake
+    try:
+        ctypes.windll.kernel32.SetThreadExecutionState(0x80000000) # ES_CONTINUOUS
+        log_message("Reset screensaver thread execution state to ES_CONTINUOUS.")
+    except Exception as e:
+        log_message(f"Failed to reset thread execution state in screensaver: {e}")
 
     # Get screen / target size
     info = pygame.display.Info()
