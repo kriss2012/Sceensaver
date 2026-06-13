@@ -285,6 +285,12 @@ def run_wallpaper():
         if current_time - last_parent_check > 2.0:
             last_parent_check = current_time
             
+            # Reset thread execution state to prevent keeping the display awake
+            try:
+                ctypes.windll.kernel32.SetThreadExecutionState(0x80000000) # ES_CONTINUOUS
+            except Exception:
+                pass
+            
             # Check screen resolution change
             cur_w = win32api.GetSystemMetrics(win32con.SM_CXSCREEN)
             cur_h = win32api.GetSystemMetrics(win32con.SM_CYSCREEN)
