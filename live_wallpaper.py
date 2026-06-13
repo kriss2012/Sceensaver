@@ -197,6 +197,20 @@ def run_wallpaper():
     # 5. Initialize pygame
     pygame.init()
     
+    # Allow screensaver to run even when Pygame is rendering a window
+    try:
+        pygame.display.set_allow_screensaver(True)
+        log_message("Allowed screensaver in Pygame.")
+    except Exception as e:
+        log_message(f"Failed to set allow screensaver: {e}")
+        
+    # Reset thread execution state to prevent keeping the display awake
+    try:
+        ctypes.windll.kernel32.SetThreadExecutionState(0x80000000) # ES_CONTINUOUS
+        log_message("Reset thread execution state to ES_CONTINUOUS.")
+    except Exception as e:
+        log_message(f"Failed to reset thread execution state: {e}")
+    
     # Get current resolution
     width = win32api.GetSystemMetrics(win32con.SM_CXSCREEN)
     height = win32api.GetSystemMetrics(win32con.SM_CYSCREEN)
