@@ -83,23 +83,23 @@ Windows coordinates screensaver actions using specific command-line switches pas
 #### Under-the-hood Execution Flow:
 ```mermaid
 graph TD
-    A[Windows OS calls Screensaver] --> B{Command Line Switch?}
-    B -->|/s| C[Full Screen Mode]
-    B -->|/p :HWND| D[Preview Mode]
-    B -->|/c| E[Settings Dialog]
+    A["Windows OS calls Screensaver"] --> B{"Command Line Switch?"}
+    B -->|"/s"| C["Full Screen Mode"]
+    B -->|"/p :HWND"| D["Preview Mode"]
+    B -->|"/c"| E["Settings Dialog"]
     
-    C --> F[Initialize Pygame Fullscreen Window]
-    D --> G[Get Parent HWND -> Modify Style to Child -> Reparent window via SetParent]
-    E --> H[Show win32api MessageBox & Exit]
+    C --> F["Initialize Pygame Fullscreen Window"]
+    D --> G["Get Parent HWND -> Modify Style to Child -> Reparent window via SetParent"]
+    E --> H["Show win32api MessageBox & Exit"]
     
-    F --> I[Open Video Stream via OpenCV]
+    F --> I["Open Video Stream via OpenCV"]
     G --> I
     
-    I --> J[Convert BGR to RGB -> Resize Frame -> Render via Pygame]
-    J --> K{Check Exit Conditions}
-    K -->|Mouse Moved / Key Pressed| L[Clean up & Terminate Process]
-    K -->|End of Video| M[Reset stream offset to 0 & Loop Video]
-    K -->|Active playback| J
+    I --> J["Convert BGR to RGB -> Resize Frame -> Render via Pygame"]
+    J --> K{"Check Exit Conditions"}
+    K -->|"Mouse Moved / Key Pressed"| L["Clean up & Terminate Process"]
+    K -->|"End of Video"| M["Reset stream offset to 0 & Loop Video"]
+    K -->|"Active playback"| J
 ```
 
 #### Low-Level Technical Details:
