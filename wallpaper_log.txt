@@ -24,3 +24,11 @@
 2026-06-13 12:07:08 - Video dimensions: 1920x1080, FPS: 60.0
 2026-06-13 12:07:08 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
 2026-06-13 12:07:08 - Starting main video loop...
+2026-06-13 12:29:36 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py']
+2026-06-13 12:29:36 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\LuffyLiveWallpaper.lnk
+2026-06-13 12:29:36 - Starting live wallpaper run routine.
+2026-06-13 12:29:36 - Target WorkerW handle identified: 197124
+2026-06-13 12:29:36 - Desktop resolution detected: 1920x1080
+2026-06-13 12:29:36 - Video dimensions: 1920x1080, FPS: 60.0
+2026-06-13 12:29:36 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-13 12:29:36 - Starting main video loop...
