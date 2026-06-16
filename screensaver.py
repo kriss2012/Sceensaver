@@ -27,6 +27,8 @@ except Exception:
 
 def get_video_path():
     video_names = [
+        "HarryPotterScreenSaver.mp4",
+        "HarryPotter.mp4",
         "One-Piece-ScreenSaver.mp4",
         "One Piece - Luffy Clips For Edits (4k) - Xeyrux Boi (1080p, h264).mp4",
         "One-Piece-Live-Wallpaer.mp4"
@@ -59,7 +61,7 @@ def get_video_path():
 def show_settings():
     try:
         import win32api
-        win32api.MessageBox(0, "Luffy Clips Screensaver by Antigravity.\n\nThis screensaver plays Luffy Clips from One Piece and does not require additional settings.", "Luffy Screensaver Settings", win32con.MB_OK | win32con.MB_ICONINFORMATION)
+        win32api.MessageBox(0, "Video Screensaver by Antigravity.\n\nThis screensaver plays video files and does not require additional settings.", "Video Screensaver Settings", win32con.MB_OK | win32con.MB_ICONINFORMATION)
     except Exception:
         pass
 
@@ -244,10 +246,11 @@ def run_screensaver(video_path, mode, parent_hwnd):
 
         # Convert and resize
         frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
-        frame = cv2.resize(frame, (new_w, new_h))
-
-        # Convert numpy array to pygame surface (efficient buffer conversion)
-        frame_surface = pygame.image.frombuffer(frame.tobytes(), (new_w, new_h), 'RGB')
+        if (new_w, new_h) == (video_w, video_h):
+            frame_surface = pygame.image.frombuffer(frame.tobytes(), (video_w, video_h), 'RGB')
+        else:
+            frame = cv2.resize(frame, (new_w, new_h))
+            frame_surface = pygame.image.frombuffer(frame.tobytes(), (new_w, new_h), 'RGB')
 
         # Render
         screen.fill((0, 0, 0))
