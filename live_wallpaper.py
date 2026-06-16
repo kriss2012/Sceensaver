@@ -13,7 +13,8 @@ import traceback
 # Config
 LOG_PATH = r"c:\Users\krishna\Downloads\Sceensaver\wallpaper_log.txt"
 PID_PATH = r"c:\Users\krishna\Downloads\Sceensaver\wallpaper.pid"
-VIDEO_NAME = "One-Piece-Live-Wallpaer.mp4"
+VIDEO_NAME = "HarryPotterScreenSaver.mp4"
+FALLBACK_VIDEO_NAME = "One-Piece-Live-Wallpaer.mp4"
 SCRIPT_DIR = r"c:\Users\krishna\Downloads\Sceensaver"
 
 def log_message(message):
@@ -33,15 +34,12 @@ except Exception:
         pass
 
 def get_video_path():
-    # Try directory where script resides, then fallback
-    video_path = os.path.join(SCRIPT_DIR, VIDEO_NAME)
-    if os.path.exists(video_path):
-        return video_path
-    
-    # Check parent or current directory
-    if os.path.exists(VIDEO_NAME):
-        return os.path.abspath(VIDEO_NAME)
-        
+    for name in [VIDEO_NAME, FALLBACK_VIDEO_NAME]:
+        video_path = os.path.join(SCRIPT_DIR, name)
+        if os.path.exists(video_path):
+            return video_path
+        if os.path.exists(name):
+            return os.path.abspath(name)
     return None
 
 def is_pid_running(pid):
@@ -134,7 +132,16 @@ def create_startup_shortcut():
             os.environ['APPDATA'],
             r'Microsoft\Windows\Start Menu\Programs\Startup'
         )
-        shortcut_path = os.path.join(startup_dir, "LuffyLiveWallpaper.lnk")
+        # Remove old Luffy shortcut if it exists
+        old_shortcut_path = os.path.join(startup_dir, "LuffyLiveWallpaper.lnk")
+        if os.path.exists(old_shortcut_path):
+            try:
+                os.remove(old_shortcut_path)
+                log_message(f"Removed old startup shortcut: {old_shortcut_path}")
+            except Exception:
+                pass
+
+        shortcut_path = os.path.join(startup_dir, "HarryPotterLiveWallpaper.lnk")
         
         script_path = os.path.join(SCRIPT_DIR, "live_wallpaper.py")
         pythonw_path = sys.executable.replace("python.exe", "pythonw.exe")
@@ -144,7 +151,7 @@ def create_startup_shortcut():
         shortcut.TargetPath = pythonw_path
         shortcut.Arguments = f'"{script_path}"'
         shortcut.WorkingDirectory = SCRIPT_DIR
-        shortcut.Description = "Luffy Live Wallpaper Autostart"
+        shortcut.Description = "Harry Potter Live Wallpaper Autostart"
         shortcut.IconLocation = pythonw_path
         shortcut.save()
         log_message(f"Created startup shortcut at: {shortcut_path}")
@@ -326,8 +333,11 @@ def run_wallpaper():
 
         # 3. Process & Draw
         frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
-        frame = cv2.resize(frame, (new_w, new_h))
-        frame_surface = pygame.image.frombuffer(frame.tobytes(), (new_w, new_h), 'RGB')
+        if (new_w, new_h) == (video_w, video_h):
+            frame_surface = pygame.image.frombuffer(frame.tobytes(), (video_w, video_h), 'RGB')
+        else:
+            frame = cv2.resize(frame, (new_w, new_h))
+            frame_surface = pygame.image.frombuffer(frame.tobytes(), (new_w, new_h), 'RGB')
         
         screen.fill((0, 0, 0))
         screen.blit(frame_surface, (x_offset, y_offset))
