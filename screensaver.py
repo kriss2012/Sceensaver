@@ -26,14 +26,30 @@ except Exception:
         pass
 
 def get_video_path():
-    video_names = [
-        "HarryPotterScreenSaver.mp4",
-        "HarryPotter.mp4",
-        "One-Piece-ScreenSaver.mp4",
-        "One Piece - Luffy Clips For Edits (4k) - Xeyrux Boi (1080p, h264).mp4",
-        "One-Piece-Live-Wallpaer.mp4"
-    ]
+    # Detect the filename of the running executable/script to choose the video automatically
+    if getattr(sys, 'frozen', False):
+        exe_name = os.path.basename(sys.executable).lower()
+    else:
+        exe_name = os.path.basename(sys.argv[0]).lower()
+        
+    log_message(f"get_video_path: exe_name is '{exe_name}'")
     
+    if "cmatrix" in exe_name:
+        video_names = ["cmatrix_optimized.mp4", "cmatrix.mp4"]
+    elif "harry" in exe_name or "potter" in exe_name:
+        video_names = ["HarryPotterScreenSaver.mp4", "HarryPotter.mp4"]
+    elif "luffy" in exe_name or "piece" in exe_name:
+        video_names = ["One-Piece-ScreenSaver.mp4", "One-Piece-Live-Wallpaer.mp4"]
+    else:
+        # Default fallback list
+        video_names = [
+            "cmatrix_optimized.mp4",
+            "cmatrix.mp4",
+            "HarryPotterScreenSaver.mp4",
+            "HarryPotter.mp4",
+            "One-Piece-ScreenSaver.mp4"
+        ]
+        
     # 1. Check if frozen (PyInstaller bundle)
     if getattr(sys, 'frozen', False):
         base_path = sys._MEIPASS
@@ -249,11 +265,10 @@ def run_screensaver(video_path, mode, parent_hwnd):
         if (new_w, new_h) == (video_w, video_h):
             frame_surface = pygame.image.frombuffer(frame.tobytes(), (video_w, video_h), 'RGB')
         else:
-            frame = cv2.resize(frame, (new_w, new_h))
+            frame = cv2.resize(frame, (new_w, new_h), interpolation=cv2.INTER_NEAREST)
             frame_surface = pygame.image.frombuffer(frame.tobytes(), (new_w, new_h), 'RGB')
 
-        # Render
-        screen.fill((0, 0, 0))
+        # Render (omit screen.fill to avoid redundant CPU clears, boosting frame rate)
         screen.blit(frame_surface, (x_offset, y_offset))
         pygame.display.flip()
 
@@ -317,7 +332,9 @@ def main():
             log_message("ERROR: Video path not found. Exiting.")
             try:
                 import win32api
-                win32api.MessageBox(0, "Luffy Clips video file was not found.\nPlease make sure the video is in the same folder as the screensaver or in downloads.", "Screensaver Error", win32con.MB_ICONERROR)
+                exe_name = os.path.basename(sys.executable) if getattr(sys, 'frozen', False) else os.path.basename(sys.argv[0])
+                msg = f"Screensaver video file was not found for '{exe_name}'.\nPlease ensure the correct video (such as cmatrix_optimized.mp4) is in the same folder as the screensaver or in your Downloads folder."
+                win32api.MessageBox(0, msg, "Screensaver Error", win32con.MB_ICONERROR)
             except Exception:
                 pass
             return
