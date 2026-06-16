@@ -67,3 +67,111 @@
 2026-06-13 14:41:24 - Video dimensions: 1920x1080, FPS: 60.0
 2026-06-13 14:41:24 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
 2026-06-13 14:41:24 - Starting main video loop...
+2026-06-13 20:17:53 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py']
+2026-06-13 20:17:54 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\LuffyLiveWallpaper.lnk
+2026-06-13 20:17:54 - Starting live wallpaper run routine.
+2026-06-13 20:17:54 - Target WorkerW handle identified: 197900
+2026-06-13 20:17:55 - Allowed screensaver in Pygame.
+2026-06-13 20:17:55 - Reset thread execution state to ES_CONTINUOUS.
+2026-06-13 20:17:55 - Desktop resolution detected: 1920x1080
+2026-06-13 20:17:56 - Video dimensions: 1920x1080, FPS: 60.0
+2026-06-13 20:17:56 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-13 20:17:56 - Starting main video loop...
+2026-06-14 08:40:29 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py']
+2026-06-14 08:40:29 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\LuffyLiveWallpaper.lnk
+2026-06-14 08:40:29 - Starting live wallpaper run routine.
+2026-06-14 08:40:29 - Target WorkerW handle identified: 393934
+2026-06-14 08:40:29 - Allowed screensaver in Pygame.
+2026-06-14 08:40:29 - Reset thread execution state to ES_CONTINUOUS.
+2026-06-14 08:40:29 - Desktop resolution detected: 1920x1080
+2026-06-14 08:40:30 - Video dimensions: 1920x1080, FPS: 60.0
+2026-06-14 08:40:30 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-14 08:40:30 - Starting main video loop...
+2026-06-14 19:40:51 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py']
+2026-06-14 19:40:51 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\LuffyLiveWallpaper.lnk
+2026-06-14 19:40:51 - Starting live wallpaper run routine.
+2026-06-14 19:40:51 - Target WorkerW handle identified: 132004
+2026-06-14 19:40:51 - Allowed screensaver in Pygame.
+2026-06-14 19:40:51 - Reset thread execution state to ES_CONTINUOUS.
+2026-06-14 19:40:51 - Desktop resolution detected: 1920x1080
+2026-06-14 19:40:52 - Video dimensions: 1920x1080, FPS: 60.0
+2026-06-14 19:40:52 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-14 19:40:52 - Starting main video loop...
+2026-06-14 22:51:34 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py']
+2026-06-14 22:51:35 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\LuffyLiveWallpaper.lnk
+2026-06-14 22:51:35 - Starting live wallpaper run routine.
+2026-06-14 22:51:35 - Target WorkerW handle identified: 131130
+2026-06-14 22:51:35 - Allowed screensaver in Pygame.
+2026-06-14 22:51:35 - Reset thread execution state to ES_CONTINUOUS.
+2026-06-14 22:51:35 - Desktop resolution detected: 1920x1080
+2026-06-14 22:51:35 - Video dimensions: 1920x1080, FPS: 60.0
+2026-06-14 22:51:35 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-14 22:51:35 - Starting main video loop...
+2026-06-15 09:33:07 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py']
+2026-06-15 09:33:07 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\LuffyLiveWallpaper.lnk
+2026-06-15 09:33:07 - Starting live wallpaper run routine.
+2026-06-15 09:33:07 - Target WorkerW handle identified: 131692
+2026-06-15 09:33:07 - Allowed screensaver in Pygame.
+2026-06-15 09:33:07 - Reset thread execution state to ES_CONTINUOUS.
+2026-06-15 09:33:07 - Desktop resolution detected: 1920x1080
+2026-06-15 09:33:08 - Video dimensions: 1920x1080, FPS: 60.0
+2026-06-15 09:33:08 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-15 09:33:08 - Starting main video loop...
+2026-06-15 15:55:31 - Target WorkerW was destroyed. Attempting to locate new target...
+2026-06-15 15:55:31 - Progman window not found.
+2026-06-15 15:55:33 - Target WorkerW was destroyed. Attempting to locate new target...
+2026-06-15 15:55:33 - Progman window not found.
+2026-06-15 15:55:35 - Target WorkerW was destroyed. Attempting to locate new target...
+2026-06-15 15:55:35 - CRITICAL EXCEPTION in main: (1400, 'SetParent', 'Invalid window handle.')
+Traceback (most recent call last):
+  File "c:\Users\krishna\Downloads\Sceensaver\live_wallpaper.py", line 371, in main
+    create_startup_shortcut()
+    ^^^^^^^^^^^^^^^
+  File "c:\Users\krishna\Downloads\Sceensaver\live_wallpaper.py", line 309, in run_wallpaper
+    elif win32gui.GetParent(pygame_hwnd) != workerw_target:
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pywintypes.error: (1400, 'SetParent', 'Invalid window handle.')
+
+2026-06-15 16:06:46 - Wallpaper script initialized with args: ['live_wallpaper.py', '/stop']
+2026-06-15 16:06:46 - Stop request received.
+2026-06-15 16:06:49 - Wallpaper script initialized with args: ['live_wallpaper.py', '/start']
+2026-06-15 16:06:49 - Removed old startup shortcut: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\LuffyLiveWallpaper.lnk
+2026-06-15 16:06:49 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\HarryPotterLiveWallpaper.lnk
+2026-06-15 16:06:49 - Starting live wallpaper run routine.
+2026-06-15 16:06:49 - Target WorkerW handle identified: 8389598
+2026-06-15 16:06:49 - Allowed screensaver in Pygame.
+2026-06-15 16:06:49 - Reset thread execution state to ES_CONTINUOUS.
+2026-06-15 16:06:49 - Desktop resolution detected: 1920x1080
+2026-06-15 16:06:50 - Video dimensions: 1920x1080, FPS: 30.0
+2026-06-15 16:06:50 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-15 16:06:50 - Starting main video loop...
+2026-06-15 22:25:07 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py']
+2026-06-15 22:25:07 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\HarryPotterLiveWallpaper.lnk
+2026-06-15 22:25:07 - Starting live wallpaper run routine.
+2026-06-15 22:25:07 - Target WorkerW handle identified: 918616
+2026-06-15 22:25:07 - Allowed screensaver in Pygame.
+2026-06-15 22:25:07 - Reset thread execution state to ES_CONTINUOUS.
+2026-06-15 22:25:07 - Desktop resolution detected: 1920x1080
+2026-06-15 22:25:08 - Video dimensions: 1920x1080, FPS: 30.0
+2026-06-15 22:25:08 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-15 22:25:08 - Starting main video loop...
+2026-06-16 09:04:32 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py']
+2026-06-16 09:04:32 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\HarryPotterLiveWallpaper.lnk
+2026-06-16 09:04:32 - Starting live wallpaper run routine.
+2026-06-16 09:04:32 - Target WorkerW handle identified: 5178570
+2026-06-16 09:04:33 - Allowed screensaver in Pygame.
+2026-06-16 09:04:33 - Reset thread execution state to ES_CONTINUOUS.
+2026-06-16 09:04:33 - Desktop resolution detected: 1920x1080
+2026-06-16 09:04:34 - Video dimensions: 1920x1080, FPS: 30.0
+2026-06-16 09:04:34 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-16 09:04:34 - Starting main video loop...
+2026-06-16 12:34:53 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py']
+2026-06-16 12:34:53 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\HarryPotterLiveWallpaper.lnk
+2026-06-16 12:34:53 - Starting live wallpaper run routine.
+2026-06-16 12:34:53 - Target WorkerW handle identified: 197172
+2026-06-16 12:34:53 - Allowed screensaver in Pygame.
+2026-06-16 12:34:53 - Reset thread execution state to ES_CONTINUOUS.
+2026-06-16 12:34:53 - Desktop resolution detected: 1920x1080
+2026-06-16 12:34:53 - Video dimensions: 1920x1080, FPS: 30.0
+2026-06-16 12:34:53 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-16 12:34:53 - Starting main video loop...
