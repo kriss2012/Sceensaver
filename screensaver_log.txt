@@ -626,3 +626,1542 @@ pywintypes.error: (1400, 'SetParent', 'Invalid window handle.')
 2026-06-13 15:17:39 - Mouse motion threshold exceeded (dx=6, dy=90, pos=(957, 731), initial=(951, 821), elapsed=44.71s). Exiting screensaver.
 2026-06-13 15:17:39 - Exiting run_screensaver. Rendered 851 frames total.
 2026-06-13 15:17:39 - Screensaver executed and finished successfully.
+2026-06-13 15:21:46 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 15:21:46 - Parsed mode: run, parent_hwnd: None
+2026-06-13 15:21:46 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI101922\One-Piece-ScreenSaver.mp4
+2026-06-13 15:21:46 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI101922\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 15:21:46 - Pygame initialized.
+2026-06-13 15:21:46 - Allowed screensaver in screensaver Pygame.
+2026-06-13 15:21:46 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 15:21:46 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 15:21:46 - Entering full screen display mode initialization...
+2026-06-13 15:21:46 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 15:21:46 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI101922\One-Piece-ScreenSaver.mp4
+2026-06-13 15:21:46 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 15:21:46 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 15:21:46 - Initial mouse position recorded: (1696, 522)
+2026-06-13 15:21:46 - Entering main screensaver playback loop...
+2026-06-13 15:22:04 - Screensaver running. Frames rendered: 300
+2026-06-13 15:22:28 - Screensaver running. Frames rendered: 600
+2026-06-13 15:22:58 - Screensaver running. Frames rendered: 900
+2026-06-13 15:23:24 - Mouse motion threshold exceeded (dx=144, dy=157, pos=(1840, 365), initial=(1696, 522), elapsed=97.44s). Exiting screensaver.
+2026-06-13 15:23:24 - Exiting run_screensaver. Rendered 1118 frames total.
+2026-06-13 15:23:24 - Screensaver executed and finished successfully.
+2026-06-13 15:37:41 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 15:37:41 - Parsed mode: run, parent_hwnd: None
+2026-06-13 15:37:41 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI148522\One-Piece-ScreenSaver.mp4
+2026-06-13 15:37:41 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI148522\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 15:37:41 - Pygame initialized.
+2026-06-13 15:37:41 - Allowed screensaver in screensaver Pygame.
+2026-06-13 15:37:41 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 15:37:41 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 15:37:41 - Entering full screen display mode initialization...
+2026-06-13 15:37:41 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 15:37:41 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI148522\One-Piece-ScreenSaver.mp4
+2026-06-13 15:37:42 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 15:37:42 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 15:37:42 - Initial mouse position recorded: (1909, 749)
+2026-06-13 15:37:42 - Entering main screensaver playback loop...
+2026-06-13 15:37:46 - Mouse motion threshold exceeded (dx=134, dy=12, pos=(1775, 737), initial=(1909, 749), elapsed=4.53s). Exiting screensaver.
+2026-06-13 15:37:46 - Exiting run_screensaver. Rendered 41 frames total.
+2026-06-13 15:37:46 - Screensaver executed and finished successfully.
+2026-06-13 15:45:19 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 15:45:19 - Parsed mode: run, parent_hwnd: None
+2026-06-13 15:45:19 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI157442\One-Piece-ScreenSaver.mp4
+2026-06-13 15:45:19 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI157442\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 15:45:19 - Pygame initialized.
+2026-06-13 15:45:19 - Allowed screensaver in screensaver Pygame.
+2026-06-13 15:45:19 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 15:45:19 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 15:45:19 - Entering full screen display mode initialization...
+2026-06-13 15:45:19 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 15:45:19 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI157442\One-Piece-ScreenSaver.mp4
+2026-06-13 15:45:20 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 15:45:20 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 15:45:20 - Initial mouse position recorded: (1689, 849)
+2026-06-13 15:45:20 - Entering main screensaver playback loop...
+2026-06-13 15:45:22 - Mouse motion threshold exceeded (dx=9, dy=431, pos=(1698, 418), initial=(1689, 849), elapsed=2.04s). Exiting screensaver.
+2026-06-13 15:45:22 - Exiting run_screensaver. Rendered 21 frames total.
+2026-06-13 15:45:22 - Screensaver executed and finished successfully.
+2026-06-13 15:47:53 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 15:47:53 - Parsed mode: run, parent_hwnd: None
+2026-06-13 15:47:53 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI48482\One-Piece-ScreenSaver.mp4
+2026-06-13 15:47:53 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI48482\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 15:47:53 - Pygame initialized.
+2026-06-13 15:47:53 - Allowed screensaver in screensaver Pygame.
+2026-06-13 15:47:53 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 15:47:53 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 15:47:53 - Entering full screen display mode initialization...
+2026-06-13 15:47:53 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 15:47:54 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI48482\One-Piece-ScreenSaver.mp4
+2026-06-13 15:47:54 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 15:47:54 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 15:47:54 - Initial mouse position recorded: (1868, 604)
+2026-06-13 15:47:54 - Entering main screensaver playback loop...
+2026-06-13 15:48:15 - Screensaver running. Frames rendered: 300
+2026-06-13 15:48:15 - Mouse motion threshold exceeded (dx=13, dy=22, pos=(1855, 582), initial=(1868, 604), elapsed=21.44s). Exiting screensaver.
+2026-06-13 15:48:15 - Exiting run_screensaver. Rendered 308 frames total.
+2026-06-13 15:48:15 - Screensaver executed and finished successfully.
+2026-06-13 15:56:50 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 15:56:50 - Parsed mode: run, parent_hwnd: None
+2026-06-13 15:56:50 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI155922\One-Piece-ScreenSaver.mp4
+2026-06-13 15:56:50 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI155922\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 15:56:50 - Pygame initialized.
+2026-06-13 15:56:50 - Allowed screensaver in screensaver Pygame.
+2026-06-13 15:56:50 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 15:56:50 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 15:56:50 - Entering full screen display mode initialization...
+2026-06-13 15:56:50 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 15:56:50 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI155922\One-Piece-ScreenSaver.mp4
+2026-06-13 15:56:50 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 15:56:50 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 15:56:50 - Initial mouse position recorded: (1919, 681)
+2026-06-13 15:56:50 - Entering main screensaver playback loop...
+2026-06-13 15:57:08 - Screensaver running. Frames rendered: 300
+2026-06-13 15:57:27 - Screensaver running. Frames rendered: 600
+2026-06-13 15:57:44 - Screensaver running. Frames rendered: 900
+2026-06-13 15:58:01 - Screensaver running. Frames rendered: 1200
+2026-06-13 15:58:18 - Screensaver running. Frames rendered: 1500
+2026-06-13 15:58:35 - Screensaver running. Frames rendered: 1800
+2026-06-13 15:58:52 - Screensaver running. Frames rendered: 2100
+2026-06-13 15:59:09 - Screensaver running. Frames rendered: 2400
+2026-06-13 15:59:16 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 15:59:28 - Screensaver running. Frames rendered: 2700
+2026-06-13 15:59:46 - Screensaver running. Frames rendered: 3000
+2026-06-13 16:00:05 - Screensaver running. Frames rendered: 3300
+2026-06-13 16:00:29 - Screensaver running. Frames rendered: 3600
+2026-06-13 16:00:47 - Screensaver running. Frames rendered: 3900
+2026-06-13 16:01:09 - Screensaver running. Frames rendered: 4200
+2026-06-13 16:01:27 - Screensaver running. Frames rendered: 4500
+2026-06-13 16:01:45 - Screensaver running. Frames rendered: 4800
+2026-06-13 16:01:59 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 16:02:02 - Screensaver running. Frames rendered: 5100
+2026-06-13 16:02:19 - Screensaver running. Frames rendered: 5400
+2026-06-13 16:02:38 - Screensaver running. Frames rendered: 5700
+2026-06-13 16:02:57 - Screensaver running. Frames rendered: 6000
+2026-06-13 16:03:15 - Screensaver running. Frames rendered: 6300
+2026-06-13 16:03:33 - Screensaver running. Frames rendered: 6600
+2026-06-13 16:03:54 - Screensaver running. Frames rendered: 6900
+2026-06-13 16:04:18 - Screensaver running. Frames rendered: 7200
+2026-06-13 16:04:43 - Screensaver running. Frames rendered: 7500
+2026-06-13 16:04:49 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 16:05:10 - Screensaver running. Frames rendered: 7800
+2026-06-13 16:05:26 - Screensaver running. Frames rendered: 8100
+2026-06-13 16:05:41 - Screensaver running. Frames rendered: 8400
+2026-06-13 16:05:57 - Screensaver running. Frames rendered: 8700
+2026-06-13 16:06:13 - Screensaver running. Frames rendered: 9000
+2026-06-13 16:06:28 - Screensaver running. Frames rendered: 9300
+2026-06-13 16:06:44 - Screensaver running. Frames rendered: 9600
+2026-06-13 16:07:00 - Screensaver running. Frames rendered: 9900
+2026-06-13 16:07:10 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 16:07:17 - Screensaver running. Frames rendered: 10200
+2026-06-13 16:07:32 - Screensaver running. Frames rendered: 10500
+2026-06-13 16:07:47 - Screensaver running. Frames rendered: 10800
+2026-06-13 16:08:06 - Screensaver running. Frames rendered: 11100
+2026-06-13 16:08:22 - Screensaver running. Frames rendered: 11400
+2026-06-13 16:08:37 - Screensaver running. Frames rendered: 11700
+2026-06-13 16:08:53 - Screensaver running. Frames rendered: 12000
+2026-06-13 16:09:09 - Screensaver running. Frames rendered: 12300
+2026-06-13 16:09:39 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 16:09:39 - Screensaver running. Frames rendered: 12600
+2026-06-13 16:09:56 - Screensaver running. Frames rendered: 12900
+2026-06-13 16:10:12 - Screensaver running. Frames rendered: 13200
+2026-06-13 16:10:27 - Screensaver running. Frames rendered: 13500
+2026-06-13 16:10:44 - Screensaver running. Frames rendered: 13800
+2026-06-13 16:10:59 - Screensaver running. Frames rendered: 14100
+2026-06-13 16:11:15 - Screensaver running. Frames rendered: 14400
+2026-06-13 16:11:31 - Screensaver running. Frames rendered: 14700
+2026-06-13 16:11:47 - Screensaver running. Frames rendered: 15000
+2026-06-13 16:11:53 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 16:12:03 - Screensaver running. Frames rendered: 15300
+2026-06-13 16:12:19 - Screensaver running. Frames rendered: 15600
+2026-06-13 16:12:35 - Screensaver running. Frames rendered: 15900
+2026-06-13 16:12:53 - Screensaver running. Frames rendered: 16200
+2026-06-13 16:13:11 - Screensaver running. Frames rendered: 16500
+2026-06-13 16:13:29 - Screensaver running. Frames rendered: 16800
+2026-06-13 16:13:46 - Screensaver running. Frames rendered: 17100
+2026-06-13 16:14:03 - Screensaver running. Frames rendered: 17400
+2026-06-13 16:14:16 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 16:14:22 - Screensaver running. Frames rendered: 17700
+2026-06-13 16:14:39 - Screensaver running. Frames rendered: 18000
+2026-06-13 16:14:58 - Screensaver running. Frames rendered: 18300
+2026-06-13 16:15:17 - Screensaver running. Frames rendered: 18600
+2026-06-13 16:15:36 - Screensaver running. Frames rendered: 18900
+2026-06-13 16:15:54 - Screensaver running. Frames rendered: 19200
+2026-06-13 16:16:11 - Screensaver running. Frames rendered: 19500
+2026-06-13 16:16:28 - Screensaver running. Frames rendered: 19800
+2026-06-13 16:16:46 - Screensaver running. Frames rendered: 20100
+2026-06-13 16:16:49 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 16:17:03 - Screensaver running. Frames rendered: 20400
+2026-06-13 16:17:21 - Screensaver running. Frames rendered: 20700
+2026-06-13 16:17:38 - Screensaver running. Frames rendered: 21000
+2026-06-13 16:17:54 - Screensaver running. Frames rendered: 21300
+2026-06-13 16:18:11 - Screensaver running. Frames rendered: 21600
+2026-06-13 16:18:28 - Screensaver running. Frames rendered: 21900
+2026-06-13 16:18:44 - Screensaver running. Frames rendered: 22200
+2026-06-13 16:19:02 - Screensaver running. Frames rendered: 22500
+2026-06-13 16:19:11 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 16:19:20 - Screensaver running. Frames rendered: 22800
+2026-06-13 16:19:37 - Screensaver running. Frames rendered: 23100
+2026-06-13 16:19:55 - Screensaver running. Frames rendered: 23400
+2026-06-13 16:20:12 - Screensaver running. Frames rendered: 23700
+2026-06-13 16:20:29 - Screensaver running. Frames rendered: 24000
+2026-06-13 16:20:47 - Screensaver running. Frames rendered: 24300
+2026-06-13 16:21:04 - Screensaver running. Frames rendered: 24600
+2026-06-13 16:21:22 - Screensaver running. Frames rendered: 24900
+2026-06-13 16:21:38 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 16:21:39 - Screensaver running. Frames rendered: 25200
+2026-06-13 16:21:57 - Screensaver running. Frames rendered: 25500
+2026-06-13 16:22:14 - Screensaver running. Frames rendered: 25800
+2026-06-13 16:22:33 - Screensaver running. Frames rendered: 26100
+2026-06-13 16:22:51 - Screensaver running. Frames rendered: 26400
+2026-06-13 16:23:08 - Screensaver running. Frames rendered: 26700
+2026-06-13 16:23:25 - Screensaver running. Frames rendered: 27000
+2026-06-13 16:23:43 - Screensaver running. Frames rendered: 27300
+2026-06-13 16:24:00 - Screensaver running. Frames rendered: 27600
+2026-06-13 16:24:06 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 16:24:18 - Screensaver running. Frames rendered: 27900
+2026-06-13 16:24:36 - Screensaver running. Frames rendered: 28200
+2026-06-13 16:24:54 - Screensaver running. Frames rendered: 28500
+2026-06-13 16:25:12 - Screensaver running. Frames rendered: 28800
+2026-06-13 16:25:30 - Screensaver running. Frames rendered: 29100
+2026-06-13 16:25:47 - Screensaver running. Frames rendered: 29400
+2026-06-13 16:26:07 - Screensaver running. Frames rendered: 29700
+2026-06-13 16:26:32 - Screensaver running. Frames rendered: 30000
+2026-06-13 16:26:52 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 16:26:59 - Screensaver running. Frames rendered: 30300
+2026-06-13 16:27:27 - Screensaver running. Frames rendered: 30600
+2026-06-13 16:27:44 - Screensaver running. Frames rendered: 30900
+2026-06-13 16:27:59 - Screensaver running. Frames rendered: 31200
+2026-06-13 16:28:14 - Screensaver running. Frames rendered: 31500
+2026-06-13 16:28:29 - Screensaver running. Frames rendered: 31800
+2026-06-13 16:28:45 - Screensaver running. Frames rendered: 32100
+2026-06-13 16:29:00 - Screensaver running. Frames rendered: 32400
+2026-06-13 16:29:15 - Screensaver running. Frames rendered: 32700
+2026-06-13 16:29:18 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 16:29:31 - Screensaver running. Frames rendered: 33000
+2026-06-13 16:29:48 - Screensaver running. Frames rendered: 33300
+2026-06-13 16:30:03 - Screensaver running. Frames rendered: 33600
+2026-06-13 16:30:20 - Screensaver running. Frames rendered: 33900
+2026-06-13 16:30:35 - Screensaver running. Frames rendered: 34200
+2026-06-13 16:30:53 - Screensaver running. Frames rendered: 34500
+2026-06-13 16:31:10 - Screensaver running. Frames rendered: 34800
+2026-06-13 16:31:23 - Mouse motion threshold exceeded (dx=33, dy=188, pos=(1886, 493), initial=(1919, 681), elapsed=2072.88s). Exiting screensaver.
+2026-06-13 16:31:23 - Exiting run_screensaver. Rendered 35050 frames total.
+2026-06-13 16:31:24 - Screensaver executed and finished successfully.
+2026-06-13 16:34:24 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 16:34:24 - Parsed mode: run, parent_hwnd: None
+2026-06-13 16:34:24 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI162722\One-Piece-ScreenSaver.mp4
+2026-06-13 16:34:24 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI162722\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 16:34:26 - Pygame initialized.
+2026-06-13 16:34:26 - Allowed screensaver in screensaver Pygame.
+2026-06-13 16:34:26 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 16:34:26 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 16:34:26 - Entering full screen display mode initialization...
+2026-06-13 16:34:26 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 16:34:26 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI162722\One-Piece-ScreenSaver.mp4
+2026-06-13 16:34:26 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 16:34:26 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 16:34:26 - Initial mouse position recorded: (1716, 718)
+2026-06-13 16:34:26 - Entering main screensaver playback loop...
+2026-06-13 16:34:46 - Screensaver running. Frames rendered: 300
+2026-06-13 16:35:00 - Screensaver running. Frames rendered: 600
+2026-06-13 16:35:14 - Screensaver running. Frames rendered: 900
+2026-06-13 16:35:28 - Screensaver running. Frames rendered: 1200
+2026-06-13 16:35:43 - Screensaver running. Frames rendered: 1500
+2026-06-13 16:35:56 - Screensaver running. Frames rendered: 1800
+2026-06-13 16:36:11 - Screensaver running. Frames rendered: 2100
+2026-06-13 16:36:25 - Screensaver running. Frames rendered: 2400
+2026-06-13 16:36:31 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 16:36:40 - Screensaver running. Frames rendered: 2700
+2026-06-13 16:36:54 - Screensaver running. Frames rendered: 3000
+2026-06-13 16:37:08 - Screensaver running. Frames rendered: 3300
+2026-06-13 16:37:24 - Screensaver running. Frames rendered: 3600
+2026-06-13 16:37:39 - Screensaver running. Frames rendered: 3900
+2026-06-13 16:37:54 - Screensaver running. Frames rendered: 4200
+2026-06-13 16:38:09 - Screensaver running. Frames rendered: 4500
+2026-06-13 16:38:24 - Screensaver running. Frames rendered: 4800
+2026-06-13 16:38:37 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 16:38:40 - Screensaver running. Frames rendered: 5100
+2026-06-13 16:38:55 - Screensaver running. Frames rendered: 5400
+2026-06-13 16:39:10 - Screensaver running. Frames rendered: 5700
+2026-06-13 16:39:25 - Screensaver running. Frames rendered: 6000
+2026-06-13 16:39:39 - Screensaver running. Frames rendered: 6300
+2026-06-13 16:39:52 - Screensaver running. Frames rendered: 6600
+2026-06-13 16:40:09 - Screensaver running. Frames rendered: 6900
+2026-06-13 16:40:23 - Screensaver running. Frames rendered: 7200
+2026-06-13 16:40:38 - Screensaver running. Frames rendered: 7500
+2026-06-13 16:40:41 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 16:40:54 - Screensaver running. Frames rendered: 7800
+2026-06-13 16:41:15 - Screensaver running. Frames rendered: 8100
+2026-06-13 16:41:30 - Screensaver running. Frames rendered: 8400
+2026-06-13 16:41:45 - Screensaver running. Frames rendered: 8700
+2026-06-13 16:42:01 - Screensaver running. Frames rendered: 9000
+2026-06-13 16:42:15 - Screensaver running. Frames rendered: 9300
+2026-06-13 16:42:31 - Screensaver running. Frames rendered: 9600
+2026-06-13 16:42:45 - Screensaver running. Frames rendered: 9900
+2026-06-13 16:42:55 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 16:43:02 - Screensaver running. Frames rendered: 10200
+2026-06-13 16:43:16 - Screensaver running. Frames rendered: 10500
+2026-06-13 16:43:22 - Key/Click event received (type=1025, elapsed=535.59s). Exiting screensaver.
+2026-06-13 16:43:22 - Exiting run_screensaver. Rendered 10613 frames total.
+2026-06-13 16:43:22 - Screensaver executed and finished successfully.
+2026-06-13 16:55:54 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 16:55:54 - Parsed mode: run, parent_hwnd: None
+2026-06-13 16:55:54 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI144242\One-Piece-ScreenSaver.mp4
+2026-06-13 16:55:54 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI144242\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 16:55:54 - Pygame initialized.
+2026-06-13 16:55:54 - Allowed screensaver in screensaver Pygame.
+2026-06-13 16:55:54 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 16:55:54 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 16:55:54 - Entering full screen display mode initialization...
+2026-06-13 16:55:55 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 16:55:55 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI144242\One-Piece-ScreenSaver.mp4
+2026-06-13 16:55:55 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 16:55:55 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 16:55:55 - Initial mouse position recorded: (1786, 822)
+2026-06-13 16:55:55 - Entering main screensaver playback loop...
+2026-06-13 16:56:09 - Screensaver running. Frames rendered: 300
+2026-06-13 16:56:25 - Screensaver running. Frames rendered: 600
+2026-06-13 16:56:38 - Screensaver running. Frames rendered: 900
+2026-06-13 16:56:53 - Screensaver running. Frames rendered: 1200
+2026-06-13 16:57:06 - Screensaver running. Frames rendered: 1500
+2026-06-13 16:57:21 - Screensaver running. Frames rendered: 1800
+2026-06-13 16:57:36 - Screensaver running. Frames rendered: 2100
+2026-06-13 16:57:50 - Screensaver running. Frames rendered: 2400
+2026-06-13 16:57:56 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 16:58:04 - Screensaver running. Frames rendered: 2700
+2026-06-13 16:58:18 - Screensaver running. Frames rendered: 3000
+2026-06-13 16:58:31 - Screensaver running. Frames rendered: 3300
+2026-06-13 16:58:45 - Screensaver running. Frames rendered: 3600
+2026-06-13 16:58:59 - Screensaver running. Frames rendered: 3900
+2026-06-13 16:59:13 - Screensaver running. Frames rendered: 4200
+2026-06-13 16:59:22 - Mouse motion threshold exceeded (dx=25, dy=57, pos=(1761, 765), initial=(1786, 822), elapsed=207.17s). Exiting screensaver.
+2026-06-13 16:59:22 - Exiting run_screensaver. Rendered 4377 frames total.
+2026-06-13 16:59:22 - Screensaver executed and finished successfully.
+2026-06-13 17:07:18 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 17:07:18 - Parsed mode: run, parent_hwnd: None
+2026-06-13 17:07:18 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI171842\One-Piece-ScreenSaver.mp4
+2026-06-13 17:07:18 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI171842\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 17:07:18 - Pygame initialized.
+2026-06-13 17:07:18 - Allowed screensaver in screensaver Pygame.
+2026-06-13 17:07:18 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 17:07:18 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 17:07:18 - Entering full screen display mode initialization...
+2026-06-13 17:07:18 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 17:07:18 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI171842\One-Piece-ScreenSaver.mp4
+2026-06-13 17:07:18 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 17:07:18 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 17:07:18 - Initial mouse position recorded: (1736, 647)
+2026-06-13 17:07:18 - Entering main screensaver playback loop...
+2026-06-13 17:07:34 - Screensaver running. Frames rendered: 300
+2026-06-13 17:07:39 - Mouse motion threshold exceeded (dx=1, dy=42, pos=(1737, 605), initial=(1736, 647), elapsed=20.77s). Exiting screensaver.
+2026-06-13 17:07:39 - Exiting run_screensaver. Rendered 390 frames total.
+2026-06-13 17:07:39 - Screensaver executed and finished successfully.
+2026-06-13 17:08:53 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 17:08:53 - Parsed mode: run, parent_hwnd: None
+2026-06-13 17:08:53 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI157722\One-Piece-ScreenSaver.mp4
+2026-06-13 17:08:53 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI157722\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 17:08:54 - Pygame initialized.
+2026-06-13 17:08:54 - Allowed screensaver in screensaver Pygame.
+2026-06-13 17:08:54 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 17:08:54 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 17:08:54 - Entering full screen display mode initialization...
+2026-06-13 17:08:54 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 17:08:54 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI157722\One-Piece-ScreenSaver.mp4
+2026-06-13 17:08:54 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 17:08:54 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 17:08:54 - Initial mouse position recorded: (1738, 598)
+2026-06-13 17:08:54 - Entering main screensaver playback loop...
+2026-06-13 17:09:13 - Screensaver running. Frames rendered: 300
+2026-06-13 17:09:36 - Screensaver running. Frames rendered: 600
+2026-06-13 17:09:52 - Screensaver running. Frames rendered: 900
+2026-06-13 17:10:09 - Screensaver running. Frames rendered: 1200
+2026-06-13 17:10:25 - Screensaver running. Frames rendered: 1500
+2026-06-13 17:10:43 - Screensaver running. Frames rendered: 1800
+2026-06-13 17:10:59 - Screensaver running. Frames rendered: 2100
+2026-06-13 17:11:14 - Screensaver running. Frames rendered: 2400
+2026-06-13 17:11:22 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 17:11:32 - Screensaver running. Frames rendered: 2700
+2026-06-13 17:11:50 - Screensaver running. Frames rendered: 3000
+2026-06-13 17:12:05 - Screensaver running. Frames rendered: 3300
+2026-06-13 17:12:20 - Screensaver running. Frames rendered: 3600
+2026-06-13 17:12:36 - Screensaver running. Frames rendered: 3900
+2026-06-13 17:12:51 - Screensaver running. Frames rendered: 4200
+2026-06-13 17:13:09 - Screensaver running. Frames rendered: 4500
+2026-06-13 17:13:24 - Screensaver running. Frames rendered: 4800
+2026-06-13 17:13:37 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 17:13:37 - Mouse motion threshold exceeded (dx=105, dy=112, pos=(1633, 486), initial=(1738, 598), elapsed=283.16s). Exiting screensaver.
+2026-06-13 17:13:37 - Exiting run_screensaver. Rendered 5039 frames total.
+2026-06-13 17:13:38 - Screensaver executed and finished successfully.
+2026-06-13 17:25:02 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 17:25:02 - Parsed mode: run, parent_hwnd: None
+2026-06-13 17:25:02 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI31522\One-Piece-ScreenSaver.mp4
+2026-06-13 17:25:02 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI31522\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 17:25:02 - Pygame initialized.
+2026-06-13 17:25:02 - Allowed screensaver in screensaver Pygame.
+2026-06-13 17:25:02 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 17:25:02 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 17:25:02 - Entering full screen display mode initialization...
+2026-06-13 17:25:02 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 17:25:02 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI31522\One-Piece-ScreenSaver.mp4
+2026-06-13 17:25:02 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 17:25:02 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 17:25:02 - Initial mouse position recorded: (696, 538)
+2026-06-13 17:25:02 - Entering main screensaver playback loop...
+2026-06-13 17:25:21 - Screensaver running. Frames rendered: 300
+2026-06-13 17:26:03 - Screensaver running. Frames rendered: 600
+2026-06-13 17:26:29 - Screensaver running. Frames rendered: 900
+2026-06-13 17:26:54 - Screensaver running. Frames rendered: 1200
+2026-06-13 17:27:12 - Screensaver running. Frames rendered: 1500
+2026-06-13 17:27:28 - Screensaver running. Frames rendered: 1800
+2026-06-13 17:27:41 - Screensaver running. Frames rendered: 2100
+2026-06-13 17:27:54 - Screensaver running. Frames rendered: 2400
+2026-06-13 17:28:00 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 17:28:08 - Screensaver running. Frames rendered: 2700
+2026-06-13 17:28:21 - Screensaver running. Frames rendered: 3000
+2026-06-13 17:28:34 - Screensaver running. Frames rendered: 3300
+2026-06-13 17:28:54 - Screensaver running. Frames rendered: 3600
+2026-06-13 17:29:10 - Screensaver running. Frames rendered: 3900
+2026-06-13 17:29:24 - Screensaver running. Frames rendered: 4200
+2026-06-13 17:29:39 - Screensaver running. Frames rendered: 4500
+2026-06-13 17:29:55 - Screensaver running. Frames rendered: 4800
+2026-06-13 17:30:11 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 17:30:14 - Screensaver running. Frames rendered: 5100
+2026-06-13 17:30:28 - Screensaver running. Frames rendered: 5400
+2026-06-13 17:30:41 - Mouse motion threshold exceeded (dx=52, dy=41, pos=(644, 497), initial=(696, 538), elapsed=338.45s). Exiting screensaver.
+2026-06-13 17:30:41 - Exiting run_screensaver. Rendered 5698 frames total.
+2026-06-13 17:30:41 - Screensaver executed and finished successfully.
+2026-06-13 17:34:28 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 17:34:28 - Parsed mode: run, parent_hwnd: None
+2026-06-13 17:34:28 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI20962\One-Piece-ScreenSaver.mp4
+2026-06-13 17:34:28 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI20962\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 17:34:28 - Pygame initialized.
+2026-06-13 17:34:28 - Allowed screensaver in screensaver Pygame.
+2026-06-13 17:34:28 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 17:34:28 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 17:34:28 - Entering full screen display mode initialization...
+2026-06-13 17:34:28 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 17:34:28 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI20962\One-Piece-ScreenSaver.mp4
+2026-06-13 17:34:29 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 17:34:29 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 17:34:29 - Initial mouse position recorded: (278, 304)
+2026-06-13 17:34:29 - Entering main screensaver playback loop...
+2026-06-13 17:34:45 - Screensaver running. Frames rendered: 300
+2026-06-13 17:35:00 - Screensaver running. Frames rendered: 600
+2026-06-13 17:35:17 - Screensaver running. Frames rendered: 900
+2026-06-13 17:35:33 - Screensaver running. Frames rendered: 1200
+2026-06-13 17:35:49 - Screensaver running. Frames rendered: 1500
+2026-06-13 17:36:04 - Screensaver running. Frames rendered: 1800
+2026-06-13 17:36:21 - Screensaver running. Frames rendered: 2100
+2026-06-13 17:36:34 - Mouse motion threshold exceeded (dx=18, dy=50, pos=(260, 254), initial=(278, 304), elapsed=125.16s). Exiting screensaver.
+2026-06-13 17:36:34 - Exiting run_screensaver. Rendered 2346 frames total.
+2026-06-13 17:36:34 - Screensaver executed and finished successfully.
+2026-06-13 17:37:50 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 17:37:50 - Parsed mode: run, parent_hwnd: None
+2026-06-13 17:37:50 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI172722\One-Piece-ScreenSaver.mp4
+2026-06-13 17:37:50 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI172722\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 17:37:50 - Pygame initialized.
+2026-06-13 17:37:50 - Allowed screensaver in screensaver Pygame.
+2026-06-13 17:37:51 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 17:37:51 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 17:37:51 - Entering full screen display mode initialization...
+2026-06-13 17:37:51 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 17:37:51 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI172722\One-Piece-ScreenSaver.mp4
+2026-06-13 17:37:51 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 17:37:51 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 17:37:51 - Initial mouse position recorded: (1772, 815)
+2026-06-13 17:37:51 - Entering main screensaver playback loop...
+2026-06-13 17:38:08 - Screensaver running. Frames rendered: 300
+2026-06-13 17:38:25 - Screensaver running. Frames rendered: 600
+2026-06-13 17:38:42 - Screensaver running. Frames rendered: 900
+2026-06-13 17:38:54 - Mouse motion threshold exceeded (dx=20, dy=148, pos=(1792, 667), initial=(1772, 815), elapsed=63.57s). Exiting screensaver.
+2026-06-13 17:38:54 - Exiting run_screensaver. Rendered 1167 frames total.
+2026-06-13 17:38:55 - Screensaver executed and finished successfully.
+2026-06-13 17:49:12 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 17:49:12 - Parsed mode: run, parent_hwnd: None
+2026-06-13 17:49:12 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI160242\One-Piece-ScreenSaver.mp4
+2026-06-13 17:49:12 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI160242\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 17:49:12 - Pygame initialized.
+2026-06-13 17:49:12 - Allowed screensaver in screensaver Pygame.
+2026-06-13 17:49:12 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 17:49:12 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 17:49:12 - Entering full screen display mode initialization...
+2026-06-13 17:49:12 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 17:49:12 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI160242\One-Piece-ScreenSaver.mp4
+2026-06-13 17:49:13 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 17:49:13 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 17:49:13 - Initial mouse position recorded: (1629, 627)
+2026-06-13 17:49:13 - Entering main screensaver playback loop...
+2026-06-13 17:49:15 - Mouse motion threshold exceeded (dx=19, dy=176, pos=(1610, 451), initial=(1629, 627), elapsed=2.05s). Exiting screensaver.
+2026-06-13 17:49:15 - Exiting run_screensaver. Rendered 42 frames total.
+2026-06-13 17:49:15 - Screensaver executed and finished successfully.
+2026-06-13 17:50:33 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 17:50:33 - Parsed mode: run, parent_hwnd: None
+2026-06-13 17:50:33 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI156682\One-Piece-ScreenSaver.mp4
+2026-06-13 17:50:33 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI156682\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 17:50:33 - Pygame initialized.
+2026-06-13 17:50:33 - Allowed screensaver in screensaver Pygame.
+2026-06-13 17:50:33 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 17:50:33 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 17:50:33 - Entering full screen display mode initialization...
+2026-06-13 17:50:33 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 17:50:33 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI156682\One-Piece-ScreenSaver.mp4
+2026-06-13 17:50:33 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 17:50:33 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 17:50:33 - Initial mouse position recorded: (1771, 822)
+2026-06-13 17:50:33 - Entering main screensaver playback loop...
+2026-06-13 17:50:48 - Screensaver running. Frames rendered: 300
+2026-06-13 17:51:03 - Screensaver running. Frames rendered: 600
+2026-06-13 17:51:20 - Screensaver running. Frames rendered: 900
+2026-06-13 17:51:37 - Screensaver running. Frames rendered: 1200
+2026-06-13 17:51:54 - Screensaver running. Frames rendered: 1500
+2026-06-13 17:51:59 - Mouse motion threshold exceeded (dx=60, dy=173, pos=(1711, 649), initial=(1771, 822), elapsed=86.09s). Exiting screensaver.
+2026-06-13 17:51:59 - Exiting run_screensaver. Rendered 1600 frames total.
+2026-06-13 17:52:00 - Screensaver executed and finished successfully.
+2026-06-13 17:55:42 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 17:55:42 - Parsed mode: run, parent_hwnd: None
+2026-06-13 17:55:42 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI122802\One-Piece-ScreenSaver.mp4
+2026-06-13 17:55:42 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI122802\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 17:55:42 - Pygame initialized.
+2026-06-13 17:55:42 - Allowed screensaver in screensaver Pygame.
+2026-06-13 17:55:42 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 17:55:42 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 17:55:43 - Entering full screen display mode initialization...
+2026-06-13 17:55:44 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 17:55:44 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI122802\One-Piece-ScreenSaver.mp4
+2026-06-13 17:55:44 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 17:55:44 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 17:55:44 - Initial mouse position recorded: (1872, 814)
+2026-06-13 17:55:44 - Entering main screensaver playback loop...
+2026-06-13 17:56:46 - Mouse motion threshold exceeded (dx=239, dy=607, pos=(1633, 207), initial=(1872, 814), elapsed=61.84s). Exiting screensaver.
+2026-06-13 17:56:46 - Exiting run_screensaver. Rendered 246 frames total.
+2026-06-13 17:56:47 - Screensaver executed and finished successfully.
+2026-06-13 18:01:50 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 18:01:50 - Parsed mode: run, parent_hwnd: None
+2026-06-13 18:01:50 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI84362\One-Piece-ScreenSaver.mp4
+2026-06-13 18:01:50 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI84362\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 18:01:51 - Pygame initialized.
+2026-06-13 18:01:51 - Allowed screensaver in screensaver Pygame.
+2026-06-13 18:01:51 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 18:01:51 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 18:01:52 - Entering full screen display mode initialization...
+2026-06-13 18:01:52 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 18:01:52 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI84362\One-Piece-ScreenSaver.mp4
+2026-06-13 18:01:53 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 18:01:53 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 18:01:53 - Initial mouse position recorded: (402, 365)
+2026-06-13 18:01:53 - Entering main screensaver playback loop...
+2026-06-13 18:01:56 - Mouse motion threshold exceeded (dx=289, dy=365, pos=(113, 0), initial=(402, 365), elapsed=3.21s). Exiting screensaver.
+2026-06-13 18:01:56 - Exiting run_screensaver. Rendered 9 frames total.
+2026-06-13 18:01:56 - Screensaver executed and finished successfully.
+2026-06-13 18:05:41 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 18:05:41 - Parsed mode: run, parent_hwnd: None
+2026-06-13 18:05:41 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI148202\One-Piece-ScreenSaver.mp4
+2026-06-13 18:05:41 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI148202\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 18:05:42 - Pygame initialized.
+2026-06-13 18:05:42 - Allowed screensaver in screensaver Pygame.
+2026-06-13 18:05:42 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 18:05:42 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 18:05:42 - Entering full screen display mode initialization...
+2026-06-13 18:05:42 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 18:05:42 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI148202\One-Piece-ScreenSaver.mp4
+2026-06-13 18:05:42 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 18:05:42 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 18:05:42 - Initial mouse position recorded: (1783, 811)
+2026-06-13 18:05:42 - Entering main screensaver playback loop...
+2026-06-13 18:05:56 - Screensaver running. Frames rendered: 300
+2026-06-13 18:06:10 - Screensaver running. Frames rendered: 600
+2026-06-13 18:06:24 - Screensaver running. Frames rendered: 900
+2026-06-13 18:06:39 - Screensaver running. Frames rendered: 1200
+2026-06-13 18:06:55 - Screensaver running. Frames rendered: 1500
+2026-06-13 18:07:10 - Screensaver running. Frames rendered: 1800
+2026-06-13 18:07:31 - Screensaver running. Frames rendered: 2100
+2026-06-13 18:07:53 - Screensaver running. Frames rendered: 2400
+2026-06-13 18:08:02 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 18:08:16 - Screensaver running. Frames rendered: 2700
+2026-06-13 18:08:39 - Mouse motion threshold exceeded (dx=123, dy=603, pos=(1906, 208), initial=(1783, 811), elapsed=176.85s). Exiting screensaver.
+2026-06-13 18:08:39 - Exiting run_screensaver. Rendered 2990 frames total.
+2026-06-13 18:08:39 - Screensaver executed and finished successfully.
+2026-06-13 18:14:20 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 18:14:20 - Parsed mode: run, parent_hwnd: None
+2026-06-13 18:14:20 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI162282\One-Piece-ScreenSaver.mp4
+2026-06-13 18:14:20 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI162282\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 18:14:21 - Pygame initialized.
+2026-06-13 18:14:21 - Allowed screensaver in screensaver Pygame.
+2026-06-13 18:14:22 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 18:14:22 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 18:14:22 - Entering full screen display mode initialization...
+2026-06-13 18:14:23 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 18:14:23 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI162282\One-Piece-ScreenSaver.mp4
+2026-06-13 18:14:23 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 18:14:23 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 18:14:24 - Initial mouse position recorded: (1179, 103)
+2026-06-13 18:14:24 - Entering main screensaver playback loop...
+2026-06-13 18:14:55 - Mouse motion threshold exceeded (dx=39, dy=103, pos=(1218, 0), initial=(1179, 103), elapsed=31.36s). Exiting screensaver.
+2026-06-13 18:14:55 - Exiting run_screensaver. Rendered 168 frames total.
+2026-06-13 18:14:57 - Screensaver executed and finished successfully.
+2026-06-13 18:17:24 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 18:17:24 - Parsed mode: run, parent_hwnd: None
+2026-06-13 18:17:24 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI79042\One-Piece-ScreenSaver.mp4
+2026-06-13 18:17:24 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI79042\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 18:17:25 - Pygame initialized.
+2026-06-13 18:17:25 - Allowed screensaver in screensaver Pygame.
+2026-06-13 18:17:26 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 18:17:26 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 18:17:26 - Entering full screen display mode initialization...
+2026-06-13 18:17:26 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 18:17:26 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI79042\One-Piece-ScreenSaver.mp4
+2026-06-13 18:17:26 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 18:17:26 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 18:17:26 - Initial mouse position recorded: (1032, 1054)
+2026-06-13 18:17:26 - Entering main screensaver playback loop...
+2026-06-13 18:18:22 - Mouse motion threshold exceeded (dx=63, dy=113, pos=(969, 941), initial=(1032, 1054), elapsed=55.31s). Exiting screensaver.
+2026-06-13 18:18:22 - Exiting run_screensaver. Rendered 286 frames total.
+2026-06-13 18:18:22 - Screensaver executed and finished successfully.
+2026-06-13 18:32:22 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 18:32:22 - Parsed mode: run, parent_hwnd: None
+2026-06-13 18:32:22 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI161882\One-Piece-ScreenSaver.mp4
+2026-06-13 18:32:22 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI161882\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 18:32:26 - Pygame initialized.
+2026-06-13 18:32:26 - Allowed screensaver in screensaver Pygame.
+2026-06-13 18:32:26 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 18:32:26 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 18:32:26 - Entering full screen display mode initialization...
+2026-06-13 18:32:27 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 18:32:27 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI161882\One-Piece-ScreenSaver.mp4
+2026-06-13 18:32:28 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 18:32:28 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 18:32:28 - Initial mouse position recorded: (1284, 723)
+2026-06-13 18:32:28 - Entering main screensaver playback loop...
+2026-06-13 18:33:28 - Screensaver running. Frames rendered: 300
+2026-06-13 18:35:09 - Screensaver running. Frames rendered: 600
+2026-06-13 18:36:27 - Mouse motion threshold exceeded (dx=22, dy=481, pos=(1306, 242), initial=(1284, 723), elapsed=238.73s). Exiting screensaver.
+2026-06-13 18:36:27 - Exiting run_screensaver. Rendered 731 frames total.
+2026-06-13 18:36:31 - Screensaver executed and finished successfully.
+2026-06-13 18:47:44 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 18:47:44 - Parsed mode: run, parent_hwnd: None
+2026-06-13 18:47:45 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI121162\One-Piece-ScreenSaver.mp4
+2026-06-13 18:47:45 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI121162\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 18:47:46 - Pygame initialized.
+2026-06-13 18:47:46 - Allowed screensaver in screensaver Pygame.
+2026-06-13 18:47:47 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 18:47:47 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 18:47:47 - Entering full screen display mode initialization...
+2026-06-13 18:47:48 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 18:47:49 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI121162\One-Piece-ScreenSaver.mp4
+2026-06-13 18:47:51 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 18:47:51 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 18:47:51 - Initial mouse position recorded: (968, 0)
+2026-06-13 18:47:52 - Entering main screensaver playback loop...
+2026-06-13 18:47:54 - Key/Click event received (type=768, elapsed=3.08s). Exiting screensaver.
+2026-06-13 18:47:54 - Exiting run_screensaver. Rendered 8 frames total.
+2026-06-13 18:47:55 - Screensaver executed and finished successfully.
+2026-06-13 19:01:01 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 19:01:01 - Parsed mode: run, parent_hwnd: None
+2026-06-13 19:01:01 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI38162\One-Piece-ScreenSaver.mp4
+2026-06-13 19:01:01 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI38162\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 19:01:03 - Pygame initialized.
+2026-06-13 19:01:03 - Allowed screensaver in screensaver Pygame.
+2026-06-13 19:01:03 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 19:01:04 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 19:01:04 - Entering full screen display mode initialization...
+2026-06-13 19:01:05 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 19:01:05 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI38162\One-Piece-ScreenSaver.mp4
+2026-06-13 19:01:06 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 19:01:06 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 19:01:06 - Initial mouse position recorded: (1825, 833)
+2026-06-13 19:01:06 - Entering main screensaver playback loop...
+2026-06-13 19:01:14 - Mouse motion threshold exceeded (dx=94, dy=209, pos=(1919, 624), initial=(1825, 833), elapsed=7.77s). Exiting screensaver.
+2026-06-13 19:01:14 - Exiting run_screensaver. Rendered 22 frames total.
+2026-06-13 19:01:14 - Screensaver executed and finished successfully.
+2026-06-13 19:04:49 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 19:04:49 - Parsed mode: run, parent_hwnd: None
+2026-06-13 19:04:49 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI178522\One-Piece-ScreenSaver.mp4
+2026-06-13 19:04:49 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI178522\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 19:04:50 - Pygame initialized.
+2026-06-13 19:04:50 - Allowed screensaver in screensaver Pygame.
+2026-06-13 19:04:50 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 19:04:50 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 19:04:50 - Entering full screen display mode initialization...
+2026-06-13 19:04:51 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 19:04:51 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI178522\One-Piece-ScreenSaver.mp4
+2026-06-13 19:04:51 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 19:04:51 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 19:04:51 - Initial mouse position recorded: (678, 302)
+2026-06-13 19:04:51 - Entering main screensaver playback loop...
+2026-06-13 19:05:34 - Screensaver running. Frames rendered: 300
+2026-06-13 19:06:36 - Screensaver running. Frames rendered: 600
+2026-06-13 19:07:35 - Screensaver running. Frames rendered: 900
+2026-06-13 19:08:41 - Screensaver running. Frames rendered: 1200
+2026-06-13 19:09:28 - Screensaver running. Frames rendered: 1500
+2026-06-13 19:10:21 - Screensaver running. Frames rendered: 1800
+2026-06-13 19:13:01 - Screensaver running. Frames rendered: 2100
+2026-06-13 19:14:59 - Screensaver running. Frames rendered: 2400
+2026-06-13 19:15:25 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 19:15:52 - Screensaver running. Frames rendered: 2700
+2026-06-13 19:16:42 - Screensaver running. Frames rendered: 3000
+2026-06-13 19:17:32 - Screensaver running. Frames rendered: 3300
+2026-06-13 19:18:24 - Screensaver running. Frames rendered: 3600
+2026-06-13 19:19:08 - Screensaver running. Frames rendered: 3900
+2026-06-13 19:19:57 - Screensaver running. Frames rendered: 4200
+2026-06-13 19:20:45 - Screensaver running. Frames rendered: 4500
+2026-06-13 19:21:23 - Screensaver running. Frames rendered: 4800
+2026-06-13 19:22:04 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 19:22:13 - Screensaver running. Frames rendered: 5100
+2026-06-13 19:23:14 - Screensaver running. Frames rendered: 5400
+2026-06-13 19:24:02 - Screensaver running. Frames rendered: 5700
+2026-06-13 19:24:53 - Screensaver running. Frames rendered: 6000
+2026-06-13 19:26:21 - Screensaver running. Frames rendered: 6300
+2026-06-13 19:27:11 - Screensaver running. Frames rendered: 6600
+2026-06-13 19:28:04 - Screensaver running. Frames rendered: 6900
+2026-06-13 19:29:08 - Screensaver running. Frames rendered: 7200
+2026-06-13 19:30:04 - Screensaver running. Frames rendered: 7500
+2026-06-13 19:30:15 - End of video file reached. Re-opening capture stream to loop...
+2026-06-13 19:31:04 - Screensaver running. Frames rendered: 7800
+2026-06-13 19:31:45 - Mouse motion threshold exceeded (dx=17, dy=302, pos=(661, 0), initial=(678, 302), elapsed=1613.49s). Exiting screensaver.
+2026-06-13 19:31:45 - Exiting run_screensaver. Rendered 8036 frames total.
+2026-06-13 19:31:47 - Screensaver executed and finished successfully.
+2026-06-13 19:35:38 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 19:35:38 - Parsed mode: run, parent_hwnd: None
+2026-06-13 19:35:38 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI88442\One-Piece-ScreenSaver.mp4
+2026-06-13 19:35:38 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI88442\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 19:35:39 - Pygame initialized.
+2026-06-13 19:35:39 - Allowed screensaver in screensaver Pygame.
+2026-06-13 19:35:39 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 19:35:39 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 19:35:39 - Entering full screen display mode initialization...
+2026-06-13 19:35:40 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 19:35:40 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI88442\One-Piece-ScreenSaver.mp4
+2026-06-13 19:35:41 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 19:35:41 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 19:35:41 - Initial mouse position recorded: (1073, 137)
+2026-06-13 19:35:41 - Entering main screensaver playback loop...
+2026-06-13 19:35:44 - Mouse motion threshold exceeded (dx=41, dy=137, pos=(1032, 0), initial=(1073, 137), elapsed=2.82s). Exiting screensaver.
+2026-06-13 19:35:44 - Exiting run_screensaver. Rendered 14 frames total.
+2026-06-13 19:35:44 - Screensaver executed and finished successfully.
+2026-06-13 19:40:01 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LUFFYS~1.SCR', '/s']
+2026-06-13 19:40:01 - Parsed mode: run, parent_hwnd: None
+2026-06-13 19:40:01 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI89442\One-Piece-ScreenSaver.mp4
+2026-06-13 19:40:01 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI89442\One-Piece-ScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-13 19:40:02 - Pygame initialized.
+2026-06-13 19:40:02 - Allowed screensaver in screensaver Pygame.
+2026-06-13 19:40:02 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 19:40:02 - Target display size from pygame info: width=1920, height=1080
+2026-06-13 19:40:02 - Entering full screen display mode initialization...
+2026-06-13 19:40:02 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-13 19:40:02 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI89442\One-Piece-ScreenSaver.mp4
+2026-06-13 19:40:03 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 19:40:03 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-13 19:40:03 - Initial mouse position recorded: (1297, 674)
+2026-06-13 19:40:03 - Entering main screensaver playback loop...
+2026-06-13 19:40:08 - Mouse motion threshold exceeded (dx=28, dy=257, pos=(1269, 417), initial=(1297, 674), elapsed=5.59s). Exiting screensaver.
+2026-06-13 19:40:08 - Exiting run_screensaver. Rendered 34 frames total.
+2026-06-13 19:40:08 - Screensaver executed and finished successfully.
+2026-06-13 20:09:40 - Screensaver process started. Arguments: ['C:\\Windows\\system32\\LuffyScreensaver.scr', '/p', '1117004']
+2026-06-13 20:09:40 - Parsed mode: preview, parent_hwnd: 1117004
+2026-06-13 20:09:40 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI201402\One-Piece-ScreenSaver.mp4
+2026-06-13 20:09:40 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI201402\One-Piece-ScreenSaver.mp4, mode=preview, parent_hwnd=1117004
+2026-06-13 20:09:41 - Pygame initialized.
+2026-06-13 20:09:41 - Allowed screensaver in screensaver Pygame.
+2026-06-13 20:09:41 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-13 20:09:41 - Preview window client rect: (0, 0, 228, 168) -> width=228, height=168
+2026-06-13 20:09:41 - Created preview Pygame window HWND: 1051636
+2026-06-13 20:09:41 - Reparented Pygame window 1051636 to parent HWND 1117004
+2026-06-13 20:09:41 - Positioned and showed preview window.
+2026-06-13 20:09:41 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI201402\One-Piece-ScreenSaver.mp4
+2026-06-13 20:09:41 - Video file opened successfully. Dimensions: 1920x1080, FPS: 59.94005994005994
+2026-06-13 20:09:41 - Scaled frame size: 228x128, Offset: (0, 20)
+2026-06-13 20:09:41 - Initial mouse position recorded: (0, 0)
+2026-06-13 20:09:41 - Entering main screensaver playback loop...
+2026-06-13 20:09:47 - QUIT event received. Exiting loop.
+2026-06-13 20:09:47 - Exiting run_screensaver. Rendered 99 frames total.
+2026-06-13 20:09:48 - Screensaver executed and finished successfully.
+Test
+2026-06-15 15:33:45 - Test from python direct
+2026-06-15 15:34:07 - Screensaver process started. Arguments: ['-c']
+2026-06-15 15:34:07 - Parsed mode: run, parent_hwnd: None
+2026-06-15 15:34:07 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 15:34:07 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-15 15:34:07 - Pygame initialized.
+2026-06-15 15:34:07 - Allowed screensaver in screensaver Pygame.
+2026-06-15 15:34:07 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-15 15:34:07 - Target display size from pygame info: width=1920, height=1080
+2026-06-15 15:34:07 - Entering full screen display mode initialization...
+2026-06-15 15:34:08 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-15 15:34:08 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 15:34:08 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-15 15:34:08 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-15 15:34:08 - Initial mouse position recorded: (1752, 824)
+2026-06-15 15:34:08 - Entering main screensaver playback loop...
+2026-06-15 15:34:18 - Screensaver running. Frames rendered: 300
+2026-06-15 15:34:45 - Screensaver process started. Arguments: ['-c']
+2026-06-15 15:34:45 - Parsed mode: run, parent_hwnd: None
+2026-06-15 15:34:45 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 15:34:45 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-15 15:34:45 - Pygame initialized.
+2026-06-15 15:34:46 - Allowed screensaver in screensaver Pygame.
+2026-06-15 15:34:46 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-15 15:34:46 - Target display size from pygame info: width=1920, height=1080
+2026-06-15 15:34:46 - Entering full screen display mode initialization...
+2026-06-15 15:34:46 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-15 15:34:46 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 15:34:46 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-15 15:34:46 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-15 15:34:46 - Initial mouse position recorded: (1557, 568)
+2026-06-15 15:34:46 - Entering main screensaver playback loop...
+2026-06-15 15:35:12 - Screensaver process started. Arguments: ['-c']
+2026-06-15 15:35:12 - Parsed mode: run, parent_hwnd: None
+2026-06-15 15:35:12 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 15:35:12 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-15 15:35:12 - Pygame initialized.
+2026-06-15 15:35:12 - Allowed screensaver in screensaver Pygame.
+2026-06-15 15:35:12 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-15 15:35:12 - Target display size from pygame info: width=1920, height=1080
+2026-06-15 15:35:12 - Entering full screen display mode initialization...
+2026-06-15 15:35:13 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-15 15:35:13 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 15:35:13 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-15 15:35:13 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-15 15:35:13 - Initial mouse position recorded: (0, 0)
+2026-06-15 15:35:13 - Entering main screensaver playback loop...
+2026-06-15 15:35:17 - Mouse motion threshold exceeded (dx=1455, dy=1042, pos=(1455, 1042), initial=(0, 0), elapsed=4.17s). Exiting screensaver.
+2026-06-15 15:35:17 - Exiting run_screensaver. Rendered 21 frames total.
+2026-06-15 15:35:19 - Screensaver executed and finished successfully.
+2026-06-15 15:47:30 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-15 15:47:30 - Parsed mode: run, parent_hwnd: None
+2026-06-15 15:47:30 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI133762\HarryPotterScreenSaver.mp4
+2026-06-15 15:47:30 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI133762\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-15 15:47:31 - Pygame initialized.
+2026-06-15 15:47:31 - Allowed screensaver in screensaver Pygame.
+2026-06-15 15:47:31 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-15 15:47:31 - Target display size from pygame info: width=1920, height=1080
+2026-06-15 15:47:31 - Entering full screen display mode initialization...
+2026-06-15 15:47:34 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-15 15:47:34 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI133762\HarryPotterScreenSaver.mp4
+2026-06-15 15:47:34 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-15 15:47:35 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-15 15:47:35 - Initial mouse position recorded: (960, 540)
+2026-06-15 15:47:35 - Entering main screensaver playback loop...
+2026-06-15 15:47:54 - Mouse motion threshold exceeded (dx=58, dy=119, pos=(902, 659), initial=(960, 540), elapsed=19.50s). Exiting screensaver.
+2026-06-15 15:47:54 - Exiting run_screensaver. Rendered 74 frames total.
+2026-06-15 15:47:54 - Screensaver executed and finished successfully.
+2026-06-15 15:57:39 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-15 15:57:39 - Parsed mode: run, parent_hwnd: None
+2026-06-15 15:57:39 - Resolved video path: C:\Users\krishna\AppData\Local\Temp\_MEI83762\HarryPotterScreenSaver.mp4
+2026-06-15 15:57:39 - run_screensaver started. video_path=C:\Users\krishna\AppData\Local\Temp\_MEI83762\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-15 15:57:40 - Pygame initialized.
+2026-06-15 15:57:40 - Allowed screensaver in screensaver Pygame.
+2026-06-15 15:57:40 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-15 15:57:40 - Target display size from pygame info: width=1920, height=1080
+2026-06-15 15:57:40 - Entering full screen display mode initialization...
+2026-06-15 15:57:40 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-15 15:57:40 - Loading video: C:\Users\krishna\AppData\Local\Temp\_MEI83762\HarryPotterScreenSaver.mp4
+2026-06-15 15:57:40 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-15 15:57:40 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-15 15:57:40 - Initial mouse position recorded: (1540, 0)
+2026-06-15 15:57:40 - Entering main screensaver playback loop...
+2026-06-15 15:57:53 - Screensaver running. Frames rendered: 300
+2026-06-15 15:58:05 - Screensaver running. Frames rendered: 600
+2026-06-15 15:58:16 - Screensaver running. Frames rendered: 900
+2026-06-15 15:58:24 - End of video file reached. Re-opening capture stream to loop...
+2026-06-15 15:58:24 - Mouse motion threshold exceeded (dx=99, dy=0, pos=(1441, 0), initial=(1540, 0), elapsed=44.58s). Exiting screensaver.
+2026-06-15 15:58:24 - Exiting run_screensaver. Rendered 1059 frames total.
+2026-06-15 15:58:24 - Screensaver executed and finished successfully.
+2026-06-15 16:02:38 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-15 16:02:38 - Parsed mode: run, parent_hwnd: None
+2026-06-15 16:02:38 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 16:02:38 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-15 16:02:38 - Pygame initialized.
+2026-06-15 16:02:38 - Allowed screensaver in screensaver Pygame.
+2026-06-15 16:02:38 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-15 16:02:38 - Target display size from pygame info: width=1920, height=1080
+2026-06-15 16:02:38 - Entering full screen display mode initialization...
+2026-06-15 16:02:38 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-15 16:02:38 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 16:02:38 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-15 16:02:38 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-15 16:02:38 - Initial mouse position recorded: (1804, 780)
+2026-06-15 16:02:38 - Entering main screensaver playback loop...
+2026-06-15 16:02:49 - Screensaver running. Frames rendered: 300
+2026-06-15 16:03:00 - Screensaver running. Frames rendered: 600
+2026-06-15 16:03:11 - Screensaver running. Frames rendered: 900
+2026-06-15 16:03:16 - End of video file reached. Re-opening capture stream to loop...
+2026-06-15 16:03:22 - Screensaver running. Frames rendered: 1200
+2026-06-15 16:03:33 - Screensaver running. Frames rendered: 1500
+2026-06-15 16:03:43 - Screensaver running. Frames rendered: 1800
+2026-06-15 16:03:54 - Screensaver running. Frames rendered: 2100
+2026-06-15 16:03:54 - End of video file reached. Re-opening capture stream to loop...
+2026-06-15 16:04:05 - Screensaver running. Frames rendered: 2400
+2026-06-15 16:04:16 - Screensaver running. Frames rendered: 2700
+2026-06-15 16:04:27 - Screensaver running. Frames rendered: 3000
+2026-06-15 16:04:33 - End of video file reached. Re-opening capture stream to loop...
+2026-06-15 16:04:38 - Screensaver running. Frames rendered: 3300
+2026-06-15 16:04:40 - Mouse motion threshold exceeded (dx=86, dy=30, pos=(1718, 750), initial=(1804, 780), elapsed=122.38s). Exiting screensaver.
+2026-06-15 16:04:40 - Exiting run_screensaver. Rendered 3351 frames total.
+2026-06-15 16:04:41 - Screensaver executed and finished successfully.
+2026-06-15 16:06:00 - Screensaver process started. Arguments: ['.\\HarryPotterScreensaver.scr', '/s']
+2026-06-15 16:06:00 - Parsed mode: run, parent_hwnd: None
+2026-06-15 16:06:00 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 16:06:00 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-15 16:06:00 - Pygame initialized.
+2026-06-15 16:06:00 - Allowed screensaver in screensaver Pygame.
+2026-06-15 16:06:00 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-15 16:06:00 - Target display size from pygame info: width=1920, height=1080
+2026-06-15 16:06:00 - Entering full screen display mode initialization...
+2026-06-15 16:06:00 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-15 16:06:00 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 16:06:00 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-15 16:06:00 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-15 16:06:00 - Initial mouse position recorded: (1863, 844)
+2026-06-15 16:06:00 - Entering main screensaver playback loop...
+2026-06-15 16:06:02 - Mouse motion threshold exceeded (dx=1827, dy=235, pos=(36, 1079), initial=(1863, 844), elapsed=2.07s). Exiting screensaver.
+2026-06-15 16:06:02 - Exiting run_screensaver. Rendered 61 frames total.
+2026-06-15 16:06:02 - Screensaver executed and finished successfully.
+2026-06-15 16:47:48 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-15 16:47:48 - Parsed mode: run, parent_hwnd: None
+2026-06-15 16:47:48 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 16:47:48 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-15 16:47:48 - Pygame initialized.
+2026-06-15 16:47:48 - Allowed screensaver in screensaver Pygame.
+2026-06-15 16:47:48 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-15 16:47:48 - Target display size from pygame info: width=1920, height=1080
+2026-06-15 16:47:48 - Entering full screen display mode initialization...
+2026-06-15 16:47:49 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-15 16:47:49 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 16:47:51 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-15 16:47:51 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-15 16:47:51 - Initial mouse position recorded: (960, 540)
+2026-06-15 16:47:51 - Entering main screensaver playback loop...
+2026-06-15 16:48:08 - Screensaver running. Frames rendered: 300
+2026-06-15 16:48:24 - Screensaver running. Frames rendered: 600
+2026-06-15 16:48:42 - Screensaver running. Frames rendered: 900
+2026-06-15 16:48:49 - End of video file reached. Re-opening capture stream to loop...
+2026-06-15 16:48:56 - Screensaver running. Frames rendered: 1200
+2026-06-15 16:49:10 - Screensaver running. Frames rendered: 1500
+2026-06-15 16:49:23 - Screensaver running. Frames rendered: 1800
+2026-06-15 16:49:38 - Screensaver running. Frames rendered: 2100
+2026-06-15 16:49:38 - End of video file reached. Re-opening capture stream to loop...
+2026-06-15 16:49:51 - Screensaver running. Frames rendered: 2400
+2026-06-15 16:50:03 - Screensaver running. Frames rendered: 2700
+2026-06-15 16:50:16 - Screensaver running. Frames rendered: 3000
+2026-06-15 16:50:22 - End of video file reached. Re-opening capture stream to loop...
+2026-06-15 16:50:29 - Screensaver running. Frames rendered: 3300
+2026-06-15 16:50:44 - Screensaver running. Frames rendered: 3600
+2026-06-15 16:50:57 - Screensaver running. Frames rendered: 3900
+2026-06-15 16:51:10 - Screensaver running. Frames rendered: 4200
+2026-06-15 16:51:10 - End of video file reached. Re-opening capture stream to loop...
+2026-06-15 16:51:24 - Screensaver running. Frames rendered: 4500
+2026-06-15 16:51:37 - Screensaver running. Frames rendered: 4800
+2026-06-15 16:51:50 - Screensaver running. Frames rendered: 5100
+2026-06-15 16:51:57 - End of video file reached. Re-opening capture stream to loop...
+2026-06-15 16:52:04 - Screensaver running. Frames rendered: 5400
+2026-06-15 16:52:21 - Screensaver running. Frames rendered: 5700
+2026-06-15 16:52:36 - Screensaver running. Frames rendered: 6000
+2026-06-15 16:52:49 - Screensaver running. Frames rendered: 6300
+2026-06-15 16:52:50 - End of video file reached. Re-opening capture stream to loop...
+2026-06-15 16:53:02 - Screensaver running. Frames rendered: 6600
+2026-06-15 16:53:15 - Screensaver running. Frames rendered: 6900
+2026-06-15 16:53:27 - Screensaver running. Frames rendered: 7200
+2026-06-15 16:53:34 - End of video file reached. Re-opening capture stream to loop...
+2026-06-15 16:53:40 - Screensaver running. Frames rendered: 7500
+2026-06-15 16:53:45 - Mouse motion threshold exceeded (dx=141, dy=34, pos=(1101, 574), initial=(960, 540), elapsed=353.78s). Exiting screensaver.
+2026-06-15 16:53:45 - Exiting run_screensaver. Rendered 7588 frames total.
+2026-06-15 16:53:45 - Screensaver executed and finished successfully.
+2026-06-15 16:55:43 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-15 16:55:43 - Parsed mode: run, parent_hwnd: None
+2026-06-15 16:55:43 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 16:55:43 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-15 16:55:43 - Pygame initialized.
+2026-06-15 16:55:43 - Allowed screensaver in screensaver Pygame.
+2026-06-15 16:55:43 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-15 16:55:43 - Target display size from pygame info: width=1920, height=1080
+2026-06-15 16:55:43 - Entering full screen display mode initialization...
+2026-06-15 16:55:43 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-15 16:55:43 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 16:55:43 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-15 16:55:43 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-15 16:55:43 - Initial mouse position recorded: (1100, 574)
+2026-06-15 16:55:43 - Entering main screensaver playback loop...
+2026-06-15 16:55:56 - Screensaver running. Frames rendered: 300
+2026-06-15 16:56:10 - Screensaver running. Frames rendered: 600
+2026-06-15 16:56:23 - Screensaver running. Frames rendered: 900
+2026-06-15 16:56:30 - End of video file reached. Re-opening capture stream to loop...
+2026-06-15 16:56:37 - Screensaver running. Frames rendered: 1200
+2026-06-15 16:56:52 - Screensaver running. Frames rendered: 1500
+2026-06-15 16:57:05 - Screensaver running. Frames rendered: 1800
+2026-06-15 16:57:13 - Mouse motion threshold exceeded (dx=119, dy=56, pos=(1219, 518), initial=(1100, 574), elapsed=90.15s). Exiting screensaver.
+2026-06-15 16:57:13 - Exiting run_screensaver. Rendered 1958 frames total.
+2026-06-15 16:57:13 - Screensaver executed and finished successfully.
+2026-06-15 16:58:30 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-15 16:58:30 - Parsed mode: run, parent_hwnd: None
+2026-06-15 16:58:30 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 16:58:30 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-15 16:58:30 - Pygame initialized.
+2026-06-15 16:58:30 - Allowed screensaver in screensaver Pygame.
+2026-06-15 16:58:30 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-15 16:58:30 - Target display size from pygame info: width=1920, height=1080
+2026-06-15 16:58:30 - Entering full screen display mode initialization...
+2026-06-15 16:58:30 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-15 16:58:30 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 16:58:30 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-15 16:58:30 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-15 16:58:30 - Initial mouse position recorded: (938, 474)
+2026-06-15 16:58:30 - Entering main screensaver playback loop...
+2026-06-15 16:58:44 - Screensaver running. Frames rendered: 300
+2026-06-15 16:58:59 - Screensaver running. Frames rendered: 600
+2026-06-15 16:59:12 - Screensaver running. Frames rendered: 900
+2026-06-15 16:59:19 - Mouse motion threshold exceeded (dx=37, dy=6, pos=(975, 480), initial=(938, 474), elapsed=48.58s). Exiting screensaver.
+2026-06-15 16:59:19 - Exiting run_screensaver. Rendered 1052 frames total.
+2026-06-15 16:59:19 - Screensaver executed and finished successfully.
+2026-06-15 17:05:54 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-15 17:05:54 - Parsed mode: run, parent_hwnd: None
+2026-06-15 17:05:54 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 17:05:54 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-15 17:05:55 - Pygame initialized.
+2026-06-15 17:05:55 - Allowed screensaver in screensaver Pygame.
+2026-06-15 17:05:55 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-15 17:05:55 - Target display size from pygame info: width=1920, height=1080
+2026-06-15 17:05:55 - Entering full screen display mode initialization...
+2026-06-15 17:05:56 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-15 17:05:56 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 17:05:57 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-15 17:05:57 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-15 17:05:57 - Initial mouse position recorded: (1919, 805)
+2026-06-15 17:05:57 - Entering main screensaver playback loop...
+2026-06-15 17:06:07 - Mouse motion threshold exceeded (dx=373, dy=284, pos=(1546, 521), initial=(1919, 805), elapsed=10.92s). Exiting screensaver.
+2026-06-15 17:06:07 - Exiting run_screensaver. Rendered 102 frames total.
+2026-06-15 17:06:08 - Screensaver executed and finished successfully.
+2026-06-15 22:36:11 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-15 22:36:12 - Parsed mode: run, parent_hwnd: None
+2026-06-15 22:36:12 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 22:36:12 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-15 22:36:12 - Pygame initialized.
+2026-06-15 22:36:13 - Allowed screensaver in screensaver Pygame.
+2026-06-15 22:36:13 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-15 22:36:13 - Target display size from pygame info: width=1920, height=1080
+2026-06-15 22:36:13 - Entering full screen display mode initialization...
+2026-06-15 22:36:14 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-15 22:36:14 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 22:36:15 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-15 22:36:15 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-15 22:36:15 - Initial mouse position recorded: (960, 540)
+2026-06-15 22:36:15 - Entering main screensaver playback loop...
+2026-06-15 22:36:41 - Screensaver running. Frames rendered: 300
+2026-06-15 22:36:51 - Mouse motion threshold exceeded (dx=31, dy=24, pos=(991, 516), initial=(960, 540), elapsed=36.34s). Exiting screensaver.
+2026-06-15 22:36:51 - Exiting run_screensaver. Rendered 429 frames total.
+2026-06-15 22:36:52 - Screensaver executed and finished successfully.
+2026-06-15 22:39:24 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-15 22:39:24 - Parsed mode: run, parent_hwnd: None
+2026-06-15 22:39:25 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 22:39:25 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-15 22:39:29 - Pygame initialized.
+2026-06-15 22:39:29 - Allowed screensaver in screensaver Pygame.
+2026-06-15 22:39:29 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-15 22:39:30 - Target display size from pygame info: width=1920, height=1080
+2026-06-15 22:39:30 - Entering full screen display mode initialization...
+2026-06-15 22:39:30 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-15 22:39:30 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 22:39:30 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-15 22:39:30 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-15 22:39:30 - Initial mouse position recorded: (1588, 298)
+2026-06-15 22:39:31 - Entering main screensaver playback loop...
+2026-06-15 22:40:26 - Mouse motion threshold exceeded (dx=117, dy=290, pos=(1471, 8), initial=(1588, 298), elapsed=55.64s). Exiting screensaver.
+2026-06-15 22:40:26 - Exiting run_screensaver. Rendered 129 frames total.
+2026-06-15 22:40:28 - Screensaver executed and finished successfully.
+2026-06-15 22:42:34 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-15 22:42:34 - Parsed mode: run, parent_hwnd: None
+2026-06-15 22:42:34 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 22:42:34 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-15 22:42:34 - Pygame initialized.
+2026-06-15 22:42:34 - Allowed screensaver in screensaver Pygame.
+2026-06-15 22:42:34 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-15 22:42:34 - Target display size from pygame info: width=1920, height=1080
+2026-06-15 22:42:34 - Entering full screen display mode initialization...
+2026-06-15 22:42:34 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-15 22:42:34 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 22:42:34 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-15 22:42:34 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-15 22:42:34 - Initial mouse position recorded: (1523, 830)
+2026-06-15 22:42:34 - Entering main screensaver playback loop...
+2026-06-15 22:42:49 - Screensaver running. Frames rendered: 300
+2026-06-15 22:42:50 - Mouse motion threshold exceeded (dx=50, dy=33, pos=(1573, 797), initial=(1523, 830), elapsed=15.53s). Exiting screensaver.
+2026-06-15 22:42:50 - Exiting run_screensaver. Rendered 326 frames total.
+2026-06-15 22:42:50 - Screensaver executed and finished successfully.
+2026-06-15 22:44:33 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-15 22:44:33 - Parsed mode: run, parent_hwnd: None
+2026-06-15 22:44:33 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 22:44:33 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-15 22:44:33 - Pygame initialized.
+2026-06-15 22:44:33 - Allowed screensaver in screensaver Pygame.
+2026-06-15 22:44:33 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-15 22:44:33 - Target display size from pygame info: width=1920, height=1080
+2026-06-15 22:44:33 - Entering full screen display mode initialization...
+2026-06-15 22:44:34 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-15 22:44:34 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 22:44:34 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-15 22:44:34 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-15 22:44:34 - Initial mouse position recorded: (1900, 809)
+2026-06-15 22:44:34 - Entering main screensaver playback loop...
+2026-06-15 22:44:41 - Mouse motion threshold exceeded (dx=19, dy=63, pos=(1919, 746), initial=(1900, 809), elapsed=7.76s). Exiting screensaver.
+2026-06-15 22:44:41 - Exiting run_screensaver. Rendered 176 frames total.
+2026-06-15 22:44:42 - Screensaver executed and finished successfully.
+2026-06-15 22:49:58 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-15 22:49:58 - Parsed mode: run, parent_hwnd: None
+2026-06-15 22:49:58 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 22:49:58 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-15 22:49:59 - Pygame initialized.
+2026-06-15 22:49:59 - Allowed screensaver in screensaver Pygame.
+2026-06-15 22:49:59 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-15 22:49:59 - Target display size from pygame info: width=1920, height=1080
+2026-06-15 22:49:59 - Entering full screen display mode initialization...
+2026-06-15 22:50:08 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-15 22:50:08 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 22:50:09 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-15 22:50:09 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-15 22:50:09 - Initial mouse position recorded: (1904, 767)
+2026-06-15 22:50:10 - Entering main screensaver playback loop...
+2026-06-15 22:51:05 - Mouse motion threshold exceeded (dx=7, dy=242, pos=(1911, 525), initial=(1904, 767), elapsed=55.79s). Exiting screensaver.
+2026-06-15 22:51:05 - Exiting run_screensaver. Rendered 120 frames total.
+2026-06-15 22:51:06 - Screensaver executed and finished successfully.
+2026-06-15 22:55:25 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-15 22:55:25 - Parsed mode: run, parent_hwnd: None
+2026-06-15 22:55:25 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 22:55:25 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-15 22:55:25 - Pygame initialized.
+2026-06-15 22:55:25 - Allowed screensaver in screensaver Pygame.
+2026-06-15 22:55:25 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-15 22:55:25 - Target display size from pygame info: width=1920, height=1080
+2026-06-15 22:55:25 - Entering full screen display mode initialization...
+2026-06-15 22:55:25 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-15 22:55:25 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-15 22:55:25 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-15 22:55:25 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-15 22:55:25 - Initial mouse position recorded: (1151, 591)
+2026-06-15 22:55:25 - Entering main screensaver playback loop...
+2026-06-15 22:55:37 - Screensaver running. Frames rendered: 300
+2026-06-15 22:55:47 - Screensaver running. Frames rendered: 600
+2026-06-15 22:56:02 - Screensaver running. Frames rendered: 900
+2026-06-15 22:56:08 - End of video file reached. Re-opening capture stream to loop...
+2026-06-15 22:56:13 - Screensaver running. Frames rendered: 1200
+2026-06-15 22:56:24 - Screensaver running. Frames rendered: 1500
+2026-06-15 22:56:34 - Screensaver running. Frames rendered: 1800
+2026-06-15 22:56:45 - Screensaver running. Frames rendered: 2100
+2026-06-15 22:56:45 - End of video file reached. Re-opening capture stream to loop...
+2026-06-15 22:56:49 - Mouse motion threshold exceeded (dx=18, dy=53, pos=(1133, 538), initial=(1151, 591), elapsed=83.98s). Exiting screensaver.
+2026-06-15 22:56:49 - Exiting run_screensaver. Rendered 2214 frames total.
+2026-06-15 22:56:49 - Screensaver executed and finished successfully.
+2026-06-16 09:08:56 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-16 09:08:56 - Parsed mode: run, parent_hwnd: None
+2026-06-16 09:08:57 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 09:08:57 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-16 09:08:59 - Pygame initialized.
+2026-06-16 09:08:59 - Allowed screensaver in screensaver Pygame.
+2026-06-16 09:08:59 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-16 09:08:59 - Target display size from pygame info: width=1920, height=1080
+2026-06-16 09:08:59 - Entering full screen display mode initialization...
+2026-06-16 09:09:00 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-16 09:09:00 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 09:09:00 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-16 09:09:00 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-16 09:09:00 - Initial mouse position recorded: (174, 807)
+2026-06-16 09:09:00 - Entering main screensaver playback loop...
+2026-06-16 09:09:02 - Mouse motion threshold exceeded (dx=1259, dy=27, pos=(1433, 780), initial=(174, 807), elapsed=2.02s). Exiting screensaver.
+2026-06-16 09:09:02 - Exiting run_screensaver. Rendered 44 frames total.
+2026-06-16 09:09:02 - Screensaver executed and finished successfully.
+2026-06-16 09:47:24 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-16 09:47:24 - Parsed mode: run, parent_hwnd: None
+2026-06-16 09:47:24 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 09:47:24 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-16 09:47:24 - Pygame initialized.
+2026-06-16 09:47:24 - Allowed screensaver in screensaver Pygame.
+2026-06-16 09:47:24 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-16 09:47:24 - Target display size from pygame info: width=1920, height=1080
+2026-06-16 09:47:24 - Entering full screen display mode initialization...
+2026-06-16 09:47:25 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-16 09:47:25 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 09:47:25 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-16 09:47:25 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-16 09:47:25 - Initial mouse position recorded: (1868, 742)
+2026-06-16 09:47:25 - Entering main screensaver playback loop...
+2026-06-16 09:47:41 - Screensaver running. Frames rendered: 300
+2026-06-16 09:47:55 - Screensaver running. Frames rendered: 600
+2026-06-16 09:48:07 - Screensaver running. Frames rendered: 900
+2026-06-16 09:48:12 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 09:48:18 - Screensaver running. Frames rendered: 1200
+2026-06-16 09:48:30 - Screensaver running. Frames rendered: 1500
+2026-06-16 09:48:43 - Screensaver running. Frames rendered: 1800
+2026-06-16 09:48:56 - Mouse motion threshold exceeded (dx=33, dy=15, pos=(1901, 727), initial=(1868, 742), elapsed=90.93s). Exiting screensaver.
+2026-06-16 09:48:56 - Exiting run_screensaver. Rendered 2063 frames total.
+2026-06-16 09:48:57 - Screensaver executed and finished successfully.
+2026-06-16 10:01:32 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-16 10:01:32 - Parsed mode: run, parent_hwnd: None
+2026-06-16 10:01:32 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 10:01:32 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-16 10:01:32 - Pygame initialized.
+2026-06-16 10:01:32 - Allowed screensaver in screensaver Pygame.
+2026-06-16 10:01:32 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-16 10:01:32 - Target display size from pygame info: width=1920, height=1080
+2026-06-16 10:01:32 - Entering full screen display mode initialization...
+2026-06-16 10:01:32 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-16 10:01:32 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 10:01:32 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-16 10:01:32 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-16 10:01:32 - Initial mouse position recorded: (1262, 693)
+2026-06-16 10:01:32 - Entering main screensaver playback loop...
+2026-06-16 10:01:45 - Screensaver running. Frames rendered: 300
+2026-06-16 10:01:56 - Screensaver running. Frames rendered: 600
+2026-06-16 10:02:09 - Screensaver running. Frames rendered: 900
+2026-06-16 10:02:18 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 10:02:19 - Mouse motion threshold exceeded (dx=224, dy=85, pos=(1486, 778), initial=(1262, 693), elapsed=46.68s). Exiting screensaver.
+2026-06-16 10:02:19 - Exiting run_screensaver. Rendered 1077 frames total.
+2026-06-16 10:02:19 - Screensaver executed and finished successfully.
+2026-06-16 10:11:35 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-16 10:11:35 - Parsed mode: run, parent_hwnd: None
+2026-06-16 10:11:35 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 10:11:35 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-16 10:11:35 - Pygame initialized.
+2026-06-16 10:11:35 - Allowed screensaver in screensaver Pygame.
+2026-06-16 10:11:35 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-16 10:11:35 - Target display size from pygame info: width=1920, height=1080
+2026-06-16 10:11:35 - Entering full screen display mode initialization...
+2026-06-16 10:11:35 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-16 10:11:35 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 10:11:35 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-16 10:11:35 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-16 10:11:35 - Initial mouse position recorded: (1741, 734)
+2026-06-16 10:11:35 - Entering main screensaver playback loop...
+2026-06-16 10:11:41 - Key/Click event received (type=1025, elapsed=5.24s). Exiting screensaver.
+2026-06-16 10:11:41 - Exiting run_screensaver. Rendered 84 frames total.
+2026-06-16 10:11:41 - Screensaver executed and finished successfully.
+2026-06-16 10:29:24 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-16 10:29:24 - Parsed mode: run, parent_hwnd: None
+2026-06-16 10:29:24 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 10:29:24 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-16 10:29:25 - Pygame initialized.
+2026-06-16 10:29:25 - Allowed screensaver in screensaver Pygame.
+2026-06-16 10:29:25 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-16 10:29:25 - Target display size from pygame info: width=1920, height=1080
+2026-06-16 10:29:25 - Entering full screen display mode initialization...
+2026-06-16 10:29:25 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-16 10:29:25 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 10:29:25 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-16 10:29:25 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-16 10:29:25 - Initial mouse position recorded: (1519, 875)
+2026-06-16 10:29:25 - Entering main screensaver playback loop...
+2026-06-16 10:29:35 - Screensaver running. Frames rendered: 300
+2026-06-16 10:29:46 - Screensaver running. Frames rendered: 600
+2026-06-16 10:29:56 - Key/Click event received (type=1025, elapsed=30.96s). Exiting screensaver.
+2026-06-16 10:29:56 - Exiting run_screensaver. Rendered 871 frames total.
+2026-06-16 10:29:56 - Screensaver executed and finished successfully.
+2026-06-16 10:36:13 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-16 10:36:13 - Parsed mode: run, parent_hwnd: None
+2026-06-16 10:36:13 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 10:36:13 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-16 10:36:13 - Pygame initialized.
+2026-06-16 10:36:13 - Allowed screensaver in screensaver Pygame.
+2026-06-16 10:36:13 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-16 10:36:13 - Target display size from pygame info: width=1920, height=1080
+2026-06-16 10:36:13 - Entering full screen display mode initialization...
+2026-06-16 10:36:13 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-16 10:36:13 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 10:36:13 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-16 10:36:13 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-16 10:36:13 - Initial mouse position recorded: (1760, 845)
+2026-06-16 10:36:13 - Entering main screensaver playback loop...
+2026-06-16 10:36:26 - Screensaver running. Frames rendered: 300
+2026-06-16 10:36:38 - Screensaver running. Frames rendered: 600
+2026-06-16 10:36:40 - Mouse motion threshold exceeded (dx=31, dy=105, pos=(1791, 740), initial=(1760, 845), elapsed=26.25s). Exiting screensaver.
+2026-06-16 10:36:40 - Exiting run_screensaver. Rendered 627 frames total.
+2026-06-16 10:36:40 - Screensaver executed and finished successfully.
+2026-06-16 10:38:35 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-16 10:38:35 - Parsed mode: run, parent_hwnd: None
+2026-06-16 10:38:35 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 10:38:35 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-16 10:38:35 - Pygame initialized.
+2026-06-16 10:38:35 - Allowed screensaver in screensaver Pygame.
+2026-06-16 10:38:35 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-16 10:38:35 - Target display size from pygame info: width=1920, height=1080
+2026-06-16 10:38:35 - Entering full screen display mode initialization...
+2026-06-16 10:38:35 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-16 10:38:35 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 10:38:35 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-16 10:38:35 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-16 10:38:35 - Initial mouse position recorded: (1631, 879)
+2026-06-16 10:38:35 - Entering main screensaver playback loop...
+2026-06-16 10:38:49 - Screensaver running. Frames rendered: 300
+2026-06-16 10:39:04 - Screensaver running. Frames rendered: 600
+2026-06-16 10:39:18 - Screensaver running. Frames rendered: 900
+2026-06-16 10:39:26 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 10:39:33 - Screensaver running. Frames rendered: 1200
+2026-06-16 10:39:44 - Screensaver running. Frames rendered: 1500
+2026-06-16 10:39:55 - Screensaver running. Frames rendered: 1800
+2026-06-16 10:40:05 - Screensaver running. Frames rendered: 2100
+2026-06-16 10:40:06 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 10:40:16 - Screensaver running. Frames rendered: 2400
+2026-06-16 10:40:27 - Screensaver running. Frames rendered: 2700
+2026-06-16 10:40:37 - Mouse motion threshold exceeded (dx=48, dy=37, pos=(1679, 842), initial=(1631, 879), elapsed=122.23s). Exiting screensaver.
+2026-06-16 10:40:37 - Exiting run_screensaver. Rendered 2973 frames total.
+2026-06-16 10:40:37 - Screensaver executed and finished successfully.
+2026-06-16 10:47:03 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-16 10:47:03 - Parsed mode: run, parent_hwnd: None
+2026-06-16 10:47:03 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 10:47:03 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-16 10:47:03 - Pygame initialized.
+2026-06-16 10:47:03 - Allowed screensaver in screensaver Pygame.
+2026-06-16 10:47:03 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-16 10:47:03 - Target display size from pygame info: width=1920, height=1080
+2026-06-16 10:47:03 - Entering full screen display mode initialization...
+2026-06-16 10:47:03 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-16 10:47:03 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 10:47:03 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-16 10:47:03 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-16 10:47:03 - Initial mouse position recorded: (675, 330)
+2026-06-16 10:47:03 - Entering main screensaver playback loop...
+2026-06-16 10:47:17 - Screensaver running. Frames rendered: 300
+2026-06-16 10:47:29 - Mouse motion threshold exceeded (dx=386, dy=187, pos=(1061, 143), initial=(675, 330), elapsed=25.33s). Exiting screensaver.
+2026-06-16 10:47:29 - Exiting run_screensaver. Rendered 568 frames total.
+2026-06-16 10:47:29 - Screensaver executed and finished successfully.
+2026-06-16 10:57:08 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-16 10:57:08 - Parsed mode: run, parent_hwnd: None
+2026-06-16 10:57:08 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 10:57:08 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-16 10:57:08 - Pygame initialized.
+2026-06-16 10:57:08 - Allowed screensaver in screensaver Pygame.
+2026-06-16 10:57:08 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-16 10:57:08 - Target display size from pygame info: width=1920, height=1080
+2026-06-16 10:57:08 - Entering full screen display mode initialization...
+2026-06-16 10:57:09 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-16 10:57:09 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 10:57:09 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-16 10:57:09 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-16 10:57:09 - Initial mouse position recorded: (1597, 361)
+2026-06-16 10:57:09 - Entering main screensaver playback loop...
+2026-06-16 10:57:26 - Screensaver running. Frames rendered: 300
+2026-06-16 10:57:37 - Screensaver running. Frames rendered: 600
+2026-06-16 10:57:48 - Screensaver running. Frames rendered: 900
+2026-06-16 10:57:53 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 10:57:58 - Screensaver running. Frames rendered: 1200
+2026-06-16 10:58:10 - Screensaver running. Frames rendered: 1500
+2026-06-16 10:58:20 - Screensaver running. Frames rendered: 1800
+2026-06-16 10:58:31 - Screensaver running. Frames rendered: 2100
+2026-06-16 10:58:31 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 10:58:43 - Screensaver running. Frames rendered: 2400
+2026-06-16 10:58:53 - Screensaver running. Frames rendered: 2700
+2026-06-16 10:59:04 - Screensaver running. Frames rendered: 3000
+2026-06-16 10:59:10 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 10:59:16 - Screensaver running. Frames rendered: 3300
+2026-06-16 10:59:26 - Screensaver running. Frames rendered: 3600
+2026-06-16 10:59:36 - Screensaver running. Frames rendered: 3900
+2026-06-16 10:59:46 - Screensaver running. Frames rendered: 4200
+2026-06-16 10:59:47 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 10:59:57 - Screensaver running. Frames rendered: 4500
+2026-06-16 11:00:07 - Screensaver running. Frames rendered: 4800
+2026-06-16 11:00:18 - Screensaver running. Frames rendered: 5100
+2026-06-16 11:00:23 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 11:00:28 - Screensaver running. Frames rendered: 5400
+2026-06-16 11:00:38 - Screensaver running. Frames rendered: 5700
+2026-06-16 11:00:49 - Screensaver running. Frames rendered: 6000
+2026-06-16 11:01:00 - Screensaver running. Frames rendered: 6300
+2026-06-16 11:01:00 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 11:01:13 - Screensaver running. Frames rendered: 6600
+2026-06-16 11:01:27 - Screensaver running. Frames rendered: 6900
+2026-06-16 11:01:38 - Screensaver running. Frames rendered: 7200
+2026-06-16 11:01:44 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 11:01:49 - Screensaver running. Frames rendered: 7500
+2026-06-16 11:02:00 - Screensaver running. Frames rendered: 7800
+2026-06-16 11:02:15 - Screensaver running. Frames rendered: 8100
+2026-06-16 11:02:26 - Screensaver running. Frames rendered: 8400
+2026-06-16 11:02:26 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 11:02:36 - Screensaver running. Frames rendered: 8700
+2026-06-16 11:02:46 - Screensaver running. Frames rendered: 9000
+2026-06-16 11:02:57 - Screensaver running. Frames rendered: 9300
+2026-06-16 11:03:03 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 11:03:08 - Screensaver running. Frames rendered: 9600
+2026-06-16 11:03:20 - Screensaver running. Frames rendered: 9900
+2026-06-16 11:03:36 - Screensaver running. Frames rendered: 10200
+2026-06-16 11:03:49 - Screensaver running. Frames rendered: 10500
+2026-06-16 11:03:50 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 11:04:08 - Screensaver running. Frames rendered: 10800
+2026-06-16 11:04:31 - Screensaver running. Frames rendered: 11100
+2026-06-16 11:04:47 - Screensaver running. Frames rendered: 11400
+2026-06-16 11:04:54 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 11:04:59 - Screensaver running. Frames rendered: 11700
+2026-06-16 11:05:11 - Screensaver running. Frames rendered: 12000
+2026-06-16 11:05:23 - Screensaver running. Frames rendered: 12300
+2026-06-16 11:05:36 - Screensaver running. Frames rendered: 12600
+2026-06-16 11:05:36 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 11:05:46 - Screensaver running. Frames rendered: 12900
+2026-06-16 11:05:59 - Screensaver running. Frames rendered: 13200
+2026-06-16 11:06:09 - Screensaver running. Frames rendered: 13500
+2026-06-16 11:06:15 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 11:06:19 - Screensaver running. Frames rendered: 13800
+2026-06-16 11:06:30 - Screensaver running. Frames rendered: 14100
+2026-06-16 11:06:40 - Screensaver running. Frames rendered: 14400
+2026-06-16 11:06:50 - Screensaver running. Frames rendered: 14700
+2026-06-16 11:06:51 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 11:07:00 - Screensaver running. Frames rendered: 15000
+2026-06-16 11:07:11 - Screensaver running. Frames rendered: 15300
+2026-06-16 11:07:21 - Screensaver running. Frames rendered: 15600
+2026-06-16 11:07:27 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 11:07:31 - Screensaver running. Frames rendered: 15900
+2026-06-16 11:07:41 - Screensaver running. Frames rendered: 16200
+2026-06-16 11:07:52 - Screensaver running. Frames rendered: 16500
+2026-06-16 11:08:02 - Screensaver running. Frames rendered: 16800
+2026-06-16 11:08:03 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 11:08:12 - Screensaver running. Frames rendered: 17100
+2026-06-16 11:08:22 - Screensaver running. Frames rendered: 17400
+2026-06-16 11:08:30 - Key/Click event received (type=1025, elapsed=681.33s). Exiting screensaver.
+2026-06-16 11:08:30 - Exiting run_screensaver. Rendered 17631 frames total.
+2026-06-16 11:08:30 - Screensaver executed and finished successfully.
+2026-06-16 11:11:13 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-16 11:11:13 - Parsed mode: run, parent_hwnd: None
+2026-06-16 11:11:13 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 11:11:13 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-16 11:11:13 - Pygame initialized.
+2026-06-16 11:11:13 - Allowed screensaver in screensaver Pygame.
+2026-06-16 11:11:13 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-16 11:11:13 - Target display size from pygame info: width=1920, height=1080
+2026-06-16 11:11:13 - Entering full screen display mode initialization...
+2026-06-16 11:11:14 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-16 11:11:14 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 11:11:14 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-16 11:11:14 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-16 11:11:14 - Initial mouse position recorded: (1286, 1020)
+2026-06-16 11:11:14 - Entering main screensaver playback loop...
+2026-06-16 11:11:21 - Mouse motion threshold exceeded (dx=12, dy=42, pos=(1298, 1062), initial=(1286, 1020), elapsed=7.71s). Exiting screensaver.
+2026-06-16 11:11:21 - Exiting run_screensaver. Rendered 228 frames total.
+2026-06-16 11:11:21 - Screensaver executed and finished successfully.
+2026-06-16 11:31:09 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-16 11:31:09 - Parsed mode: run, parent_hwnd: None
+2026-06-16 11:31:09 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 11:31:09 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-16 11:31:09 - Pygame initialized.
+2026-06-16 11:31:09 - Allowed screensaver in screensaver Pygame.
+2026-06-16 11:31:09 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-16 11:31:09 - Target display size from pygame info: width=1920, height=1080
+2026-06-16 11:31:09 - Entering full screen display mode initialization...
+2026-06-16 11:31:09 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-16 11:31:09 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 11:31:09 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-16 11:31:09 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-16 11:31:09 - Initial mouse position recorded: (1133, 540)
+2026-06-16 11:31:09 - Entering main screensaver playback loop...
+2026-06-16 11:31:19 - Screensaver running. Frames rendered: 300
+2026-06-16 11:31:27 - Mouse motion threshold exceeded (dx=413, dy=55, pos=(720, 595), initial=(1133, 540), elapsed=17.53s). Exiting screensaver.
+2026-06-16 11:31:27 - Exiting run_screensaver. Rendered 517 frames total.
+2026-06-16 11:31:27 - Screensaver executed and finished successfully.
+2026-06-16 11:43:49 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-16 11:43:49 - Parsed mode: run, parent_hwnd: None
+2026-06-16 11:43:49 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 11:43:49 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-16 11:43:49 - Pygame initialized.
+2026-06-16 11:43:49 - Allowed screensaver in screensaver Pygame.
+2026-06-16 11:43:49 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-16 11:43:49 - Target display size from pygame info: width=1920, height=1080
+2026-06-16 11:43:49 - Entering full screen display mode initialization...
+2026-06-16 11:43:50 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-16 11:43:50 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 11:43:50 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-16 11:43:50 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-16 11:43:50 - Initial mouse position recorded: (670, 753)
+2026-06-16 11:43:50 - Entering main screensaver playback loop...
+2026-06-16 11:44:09 - Screensaver running. Frames rendered: 300
+2026-06-16 11:44:27 - Screensaver running. Frames rendered: 600
+2026-06-16 11:44:43 - Screensaver running. Frames rendered: 900
+2026-06-16 11:44:53 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 11:45:02 - Screensaver running. Frames rendered: 1200
+2026-06-16 11:45:22 - Screensaver running. Frames rendered: 1500
+2026-06-16 11:45:41 - Screensaver running. Frames rendered: 1800
+2026-06-16 11:46:01 - Screensaver running. Frames rendered: 2100
+2026-06-16 11:46:02 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 11:46:12 - Mouse motion threshold exceeded (dx=167, dy=165, pos=(503, 588), initial=(670, 753), elapsed=142.60s). Exiting screensaver.
+2026-06-16 11:46:12 - Exiting run_screensaver. Rendered 2283 frames total.
+2026-06-16 11:46:13 - Screensaver executed and finished successfully.
+2026-06-16 11:55:25 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-16 11:55:25 - Parsed mode: run, parent_hwnd: None
+2026-06-16 11:55:25 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 11:55:25 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-16 11:55:27 - Pygame initialized.
+2026-06-16 11:55:27 - Allowed screensaver in screensaver Pygame.
+2026-06-16 11:55:27 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-16 11:55:27 - Target display size from pygame info: width=1920, height=1080
+2026-06-16 11:55:27 - Entering full screen display mode initialization...
+2026-06-16 11:55:27 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-16 11:55:27 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 11:55:28 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-16 11:55:28 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-16 11:55:28 - Initial mouse position recorded: (1814, 825)
+2026-06-16 11:55:28 - Entering main screensaver playback loop...
+2026-06-16 11:56:29 - Mouse motion threshold exceeded (dx=363, dy=54, pos=(1451, 771), initial=(1814, 825), elapsed=61.60s). Exiting screensaver.
+2026-06-16 11:56:30 - Exiting run_screensaver. Rendered 74 frames total.
+2026-06-16 11:56:30 - Screensaver executed and finished successfully.
+2026-06-16 12:01:28 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-16 12:01:28 - Parsed mode: run, parent_hwnd: None
+2026-06-16 12:01:29 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 12:01:29 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-16 12:01:29 - Pygame initialized.
+2026-06-16 12:01:29 - Allowed screensaver in screensaver Pygame.
+2026-06-16 12:01:29 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-16 12:01:29 - Target display size from pygame info: width=1920, height=1080
+2026-06-16 12:01:29 - Entering full screen display mode initialization...
+2026-06-16 12:01:29 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-16 12:01:29 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 12:01:29 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-16 12:01:29 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-16 12:01:29 - Initial mouse position recorded: (1694, 599)
+2026-06-16 12:01:29 - Entering main screensaver playback loop...
+2026-06-16 12:01:38 - Mouse motion threshold exceeded (dx=246, dy=12, pos=(1448, 587), initial=(1694, 599), elapsed=8.69s). Exiting screensaver.
+2026-06-16 12:01:38 - Exiting run_screensaver. Rendered 251 frames total.
+2026-06-16 12:01:38 - Screensaver executed and finished successfully.
+2026-06-16 12:03:31 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/s']
+2026-06-16 12:03:31 - Parsed mode: run, parent_hwnd: None
+2026-06-16 12:03:31 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 12:03:31 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=run, parent_hwnd=None
+2026-06-16 12:03:31 - Pygame initialized.
+2026-06-16 12:03:31 - Allowed screensaver in screensaver Pygame.
+2026-06-16 12:03:31 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-16 12:03:31 - Target display size from pygame info: width=1920, height=1080
+2026-06-16 12:03:31 - Entering full screen display mode initialization...
+2026-06-16 12:03:31 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-16 12:03:31 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 12:03:31 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-16 12:03:31 - Scaled frame size: 1920x1080, Offset: (0, 0)
+2026-06-16 12:03:31 - Initial mouse position recorded: (1680, 697)
+2026-06-16 12:03:31 - Entering main screensaver playback loop...
+2026-06-16 12:03:44 - Screensaver running. Frames rendered: 300
+2026-06-16 12:03:55 - Screensaver running. Frames rendered: 600
+2026-06-16 12:04:08 - Screensaver running. Frames rendered: 900
+2026-06-16 12:04:14 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 12:04:19 - Screensaver running. Frames rendered: 1200
+2026-06-16 12:04:33 - Screensaver running. Frames rendered: 1500
+2026-06-16 12:04:46 - Screensaver running. Frames rendered: 1800
+2026-06-16 12:04:56 - Screensaver running. Frames rendered: 2100
+2026-06-16 12:04:57 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 12:05:07 - Screensaver running. Frames rendered: 2400
+2026-06-16 12:05:18 - Screensaver running. Frames rendered: 2700
+2026-06-16 12:05:30 - Screensaver running. Frames rendered: 3000
+2026-06-16 12:05:36 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 12:05:41 - Screensaver running. Frames rendered: 3300
+2026-06-16 12:05:47 - Mouse motion threshold exceeded (dx=31, dy=5, pos=(1711, 702), initial=(1680, 697), elapsed=135.80s). Exiting screensaver.
+2026-06-16 12:05:47 - Exiting run_screensaver. Rendered 3459 frames total.
+2026-06-16 12:05:47 - Screensaver executed and finished successfully.
+2026-06-16 12:38:09 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\HarryPotterScreensaver.scr', '/p', '132918']
+2026-06-16 12:38:09 - Parsed mode: preview, parent_hwnd: 132918
+2026-06-16 12:38:09 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 12:38:09 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4, mode=preview, parent_hwnd=132918
+2026-06-16 12:38:09 - Pygame initialized.
+2026-06-16 12:38:09 - Allowed screensaver in screensaver Pygame.
+2026-06-16 12:38:09 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-16 12:38:09 - Preview window client rect: (0, 0, 228, 168) -> width=228, height=168
+2026-06-16 12:38:09 - Created preview Pygame window HWND: 67566
+2026-06-16 12:38:09 - Reparented Pygame window 67566 to parent HWND 132918
+2026-06-16 12:38:09 - Positioned and showed preview window.
+2026-06-16 12:38:09 - Loading video: C:\Users\krishna\Downloads\Sceensaver\HarryPotterScreenSaver.mp4
+2026-06-16 12:38:10 - Video file opened successfully. Dimensions: 1920x1080, FPS: 30.0
+2026-06-16 12:38:10 - Scaled frame size: 228x128, Offset: (0, 20)
+2026-06-16 12:38:10 - Initial mouse position recorded: (0, 0)
+2026-06-16 12:38:10 - Entering main screensaver playback loop...
+2026-06-16 12:38:16 - QUIT event received. Exiting loop.
+2026-06-16 12:38:16 - Exiting run_screensaver. Rendered 155 frames total.
+2026-06-16 12:38:16 - Screensaver executed and finished successfully.
