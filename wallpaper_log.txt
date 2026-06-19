@@ -175,3 +175,92 @@ pywintypes.error: (1400, 'SetParent', 'Invalid window handle.')
 2026-06-16 12:34:53 - Video dimensions: 1920x1080, FPS: 30.0
 2026-06-16 12:34:53 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
 2026-06-16 12:34:53 - Starting main video loop...
+2026-06-17 10:46:21 - Target WorkerW was destroyed. Attempting to locate new target...
+2026-06-17 10:46:21 - Progman window not found.
+2026-06-17 10:46:23 - Target WorkerW was destroyed. Attempting to locate new target...
+2026-06-17 10:46:23 - Progman window not found.
+2026-06-17 10:46:25 - Target WorkerW was destroyed. Attempting to locate new target...
+2026-06-17 10:46:25 - Progman window not found.
+2026-06-17 10:46:28 - Target WorkerW was destroyed. Attempting to locate new target...
+2026-06-17 10:46:28 - Progman window not found.
+2026-06-17 10:46:30 - Target WorkerW was destroyed. Attempting to locate new target...
+2026-06-17 10:46:30 - Progman window not found.
+2026-06-17 10:46:32 - Target WorkerW was destroyed. Attempting to locate new target...
+2026-06-17 10:46:32 - CRITICAL EXCEPTION in main: (1400, 'SetParent', 'Invalid window handle.')
+Traceback (most recent call last):
+  File "c:\Users\krishna\Downloads\Sceensaver\live_wallpaper.py", line 381, in main
+    run_wallpaper()
+  File "c:\Users\krishna\Downloads\Sceensaver\live_wallpaper.py", line 316, in run_wallpaper
+    win32gui.SetParent(pygame_hwnd, workerw_target)
+pywintypes.error: (1400, 'SetParent', 'Invalid window handle.')
+
+2026-06-17 11:31:26 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py']
+2026-06-17 11:31:26 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\HarryPotterLiveWallpaper.lnk
+2026-06-17 11:31:26 - Starting live wallpaper run routine.
+2026-06-17 11:31:26 - Target WorkerW handle identified: 132258
+2026-06-17 11:31:27 - Allowed screensaver in Pygame.
+2026-06-17 11:31:27 - Reset thread execution state to ES_CONTINUOUS.
+2026-06-17 11:31:27 - Desktop resolution detected: 1920x1080
+2026-06-17 11:31:27 - Video dimensions: 1920x1080, FPS: 30.0
+2026-06-17 11:31:27 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-17 11:31:27 - Starting main video loop...
+2026-06-18 12:23:24 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py']
+2026-06-18 12:23:24 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\HarryPotterLiveWallpaper.lnk
+2026-06-18 12:23:24 - Starting live wallpaper run routine.
+2026-06-18 12:23:24 - Target WorkerW handle identified: 197176
+2026-06-18 12:23:24 - Allowed screensaver in Pygame.
+2026-06-18 12:23:24 - Reset thread execution state to ES_CONTINUOUS.
+2026-06-18 12:23:24 - Desktop resolution detected: 1920x1080
+2026-06-18 12:23:25 - Video dimensions: 1920x1080, FPS: 30.0
+2026-06-18 12:23:25 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-18 12:23:25 - Starting main video loop...
+2026-06-18 13:22:14 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py']
+2026-06-18 13:22:14 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\HarryPotterLiveWallpaper.lnk
+2026-06-18 13:22:14 - Starting live wallpaper run routine.
+2026-06-18 13:22:14 - Target WorkerW handle identified: 197880
+2026-06-18 13:22:14 - Allowed screensaver in Pygame.
+2026-06-18 13:22:14 - Reset thread execution state to ES_CONTINUOUS.
+2026-06-18 13:22:14 - Desktop resolution detected: 1920x1080
+2026-06-18 13:22:15 - Video dimensions: 1920x1080, FPS: 30.0
+2026-06-18 13:22:15 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-18 13:22:15 - Starting main video loop...
+2026-06-18 13:46:25 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py']
+2026-06-18 13:46:25 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\HarryPotterLiveWallpaper.lnk
+2026-06-18 13:46:25 - Starting live wallpaper run routine.
+2026-06-18 13:46:25 - Target WorkerW handle identified: 328458
+2026-06-18 13:46:25 - Allowed screensaver in Pygame.
+2026-06-18 13:46:25 - Reset thread execution state to ES_CONTINUOUS.
+2026-06-18 13:46:25 - Desktop resolution detected: 1920x1080
+2026-06-18 13:46:26 - Video dimensions: 1920x1080, FPS: 30.0
+2026-06-18 13:46:26 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-18 13:46:26 - Starting main video loop...
+2026-06-18 23:29:05 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py']
+2026-06-18 23:29:05 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\HarryPotterLiveWallpaper.lnk
+2026-06-18 23:29:05 - Starting live wallpaper run routine.
+2026-06-18 23:29:05 - Target WorkerW handle identified: 197808
+2026-06-18 23:29:05 - Allowed screensaver in Pygame.
+2026-06-18 23:29:05 - Reset thread execution state to ES_CONTINUOUS.
+2026-06-18 23:29:05 - Desktop resolution detected: 1920x1080
+2026-06-18 23:29:05 - Video dimensions: 1920x1080, FPS: 30.0
+2026-06-18 23:29:05 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-18 23:29:05 - Starting main video loop...
+2026-06-19 09:11:52 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py']
+2026-06-19 09:11:52 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\HarryPotterLiveWallpaper.lnk
+2026-06-19 09:11:52 - Starting live wallpaper run routine.
+2026-06-19 09:11:52 - Target WorkerW handle identified: 132494
+2026-06-19 09:11:52 - Allowed screensaver in Pygame.
+2026-06-19 09:11:52 - Reset thread execution state to ES_CONTINUOUS.
+2026-06-19 09:11:52 - Desktop resolution detected: 1920x1080
+2026-06-19 09:11:53 - Video dimensions: 1920x1080, FPS: 30.0
+2026-06-19 09:11:53 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-19 09:11:53 - Starting main video loop...
+2026-06-19 09:25:39 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py']
+2026-06-19 09:25:39 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\HarryPotterLiveWallpaper.lnk
+2026-06-19 09:25:39 - Starting live wallpaper run routine.
+2026-06-19 09:25:39 - Target WorkerW handle identified: 131592
+2026-06-19 09:25:39 - Allowed screensaver in Pygame.
+2026-06-19 09:25:39 - Reset thread execution state to ES_CONTINUOUS.
+2026-06-19 09:25:39 - Desktop resolution detected: 1920x1080
+2026-06-19 09:25:39 - Video dimensions: 1920x1080, FPS: 30.0
+2026-06-19 09:25:39 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-19 09:25:39 - Starting main video loop...
