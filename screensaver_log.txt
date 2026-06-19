@@ -2335,3 +2335,187 @@ pywintypes.error: (1400, 'SetParent', 'Invalid window handle.')
 2026-06-16 16:01:58 - Mouse motion threshold exceeded (dx=43, dy=52, pos=(270, 347), initial=(227, 399), elapsed=7.27s). Exiting screensaver.
 2026-06-16 16:01:58 - Exiting run_screensaver. Rendered 196 frames total.
 2026-06-16 16:01:58 - Screensaver executed and finished successfully.
+2026-06-16 16:23:40 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\DOWNLO~1\\SCEENS~1\\CMATRI~1.SCR', '/s']
+2026-06-16 16:23:40 - Parsed mode: run, parent_hwnd: None
+2026-06-16 16:23:40 - get_video_path: exe_name is 'cmatri~1.scr'
+2026-06-16 16:23:40 - Resolved video path: C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4
+2026-06-16 16:23:40 - run_screensaver started. video_path=C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4, mode=run, parent_hwnd=None
+2026-06-16 16:23:41 - Pygame initialized.
+2026-06-16 16:23:41 - Allowed screensaver in screensaver Pygame.
+2026-06-16 16:23:41 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-16 16:23:41 - Target display size from pygame info: width=1920, height=1080
+2026-06-16 16:23:41 - Entering full screen display mode initialization...
+2026-06-16 16:23:41 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-16 16:23:41 - Loading video: C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4
+2026-06-16 16:23:41 - Video file opened successfully. Dimensions: 1280x624, FPS: 30.0
+2026-06-16 16:23:41 - Scaled frame size: 1920x936, Offset: (0, 72)
+2026-06-16 16:23:41 - Initial mouse position recorded: (1684, 863)
+2026-06-16 16:23:41 - Entering main screensaver playback loop...
+2026-06-16 16:23:51 - Screensaver running. Frames rendered: 300
+2026-06-16 16:23:56 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 16:24:01 - Screensaver running. Frames rendered: 600
+2026-06-16 16:24:11 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 16:24:12 - Screensaver running. Frames rendered: 900
+2026-06-16 16:24:22 - Screensaver running. Frames rendered: 1200
+2026-06-16 16:24:25 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 16:24:33 - Screensaver running. Frames rendered: 1500
+2026-06-16 16:24:40 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 16:24:43 - Screensaver running. Frames rendered: 1800
+2026-06-16 16:24:53 - Screensaver running. Frames rendered: 2100
+2026-06-16 16:24:55 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 16:25:03 - Screensaver running. Frames rendered: 2400
+2026-06-16 16:25:10 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 16:25:13 - Screensaver running. Frames rendered: 2700
+2026-06-16 16:25:24 - Screensaver running. Frames rendered: 3000
+2026-06-16 16:25:25 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 16:25:34 - Screensaver running. Frames rendered: 3300
+2026-06-16 16:25:40 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 16:25:44 - Screensaver running. Frames rendered: 3600
+2026-06-16 16:25:45 - Mouse motion threshold exceeded (dx=23, dy=15, pos=(1707, 878), initial=(1684, 863), elapsed=124.26s). Exiting screensaver.
+2026-06-16 16:25:45 - Exiting run_screensaver. Rendered 3637 frames total.
+2026-06-16 16:25:45 - Screensaver executed and finished successfully.
+2026-06-16 16:37:58 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\DOWNLO~1\\SCEENS~1\\CMATRI~1.SCR', '/s']
+2026-06-16 16:37:58 - Parsed mode: run, parent_hwnd: None
+2026-06-16 16:37:58 - get_video_path: exe_name is 'cmatri~1.scr'
+2026-06-16 16:37:58 - Resolved video path: C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4
+2026-06-16 16:37:58 - run_screensaver started. video_path=C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4, mode=run, parent_hwnd=None
+2026-06-16 16:37:58 - Pygame initialized.
+2026-06-16 16:37:58 - Allowed screensaver in screensaver Pygame.
+2026-06-16 16:37:58 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-16 16:37:58 - Target display size from pygame info: width=1920, height=1080
+2026-06-16 16:37:58 - Entering full screen display mode initialization...
+2026-06-16 16:37:59 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-16 16:37:59 - Loading video: C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4
+2026-06-16 16:37:59 - Video file opened successfully. Dimensions: 1280x624, FPS: 30.0
+2026-06-16 16:37:59 - Scaled frame size: 1920x936, Offset: (0, 72)
+2026-06-16 16:37:59 - Initial mouse position recorded: (1471, 715)
+2026-06-16 16:37:59 - Entering main screensaver playback loop...
+2026-06-16 16:38:09 - Screensaver running. Frames rendered: 300
+2026-06-16 16:38:14 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 16:38:19 - Screensaver running. Frames rendered: 600
+2026-06-16 16:38:28 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 16:38:30 - Screensaver running. Frames rendered: 900
+2026-06-16 16:38:40 - Screensaver running. Frames rendered: 1200
+2026-06-16 16:38:44 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 16:38:51 - Screensaver running. Frames rendered: 1500
+2026-06-16 16:38:59 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 16:39:01 - Screensaver running. Frames rendered: 1800
+2026-06-16 16:39:11 - Screensaver running. Frames rendered: 2100
+2026-06-16 16:39:14 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 16:39:22 - Screensaver running. Frames rendered: 2400
+2026-06-16 16:39:29 - End of video file reached. Re-opening capture stream to loop...
+2026-06-16 16:39:32 - Screensaver running. Frames rendered: 2700
+2026-06-16 16:39:40 - Mouse motion threshold exceeded (dx=89, dy=715, pos=(1560, 0), initial=(1471, 715), elapsed=101.86s). Exiting screensaver.
+2026-06-16 16:39:40 - Exiting run_screensaver. Rendered 2940 frames total.
+2026-06-16 16:39:41 - Screensaver executed and finished successfully.
+2026-06-16 16:50:12 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\DOWNLO~1\\SCEENS~1\\CMATRI~1.SCR', '/s']
+2026-06-16 16:50:12 - Parsed mode: run, parent_hwnd: None
+2026-06-16 16:50:12 - get_video_path: exe_name is 'cmatri~1.scr'
+2026-06-16 16:50:12 - Resolved video path: C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4
+2026-06-16 16:50:12 - run_screensaver started. video_path=C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4, mode=run, parent_hwnd=None
+2026-06-16 16:50:12 - Pygame initialized.
+2026-06-16 16:50:12 - Allowed screensaver in screensaver Pygame.
+2026-06-16 16:50:12 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-16 16:50:12 - Target display size from pygame info: width=1920, height=1080
+2026-06-16 16:50:12 - Entering full screen display mode initialization...
+2026-06-16 16:50:13 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-16 16:50:13 - Loading video: C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4
+2026-06-16 16:50:13 - Video file opened successfully. Dimensions: 1280x624, FPS: 30.0
+2026-06-16 16:50:13 - Scaled frame size: 1920x936, Offset: (0, 72)
+2026-06-16 16:50:13 - Initial mouse position recorded: (912, 812)
+2026-06-16 16:50:13 - Entering main screensaver playback loop...
+2026-06-16 16:50:13 - Key/Click event received (type=1025, elapsed=0.84s). Exiting screensaver.
+2026-06-16 16:50:13 - Exiting run_screensaver. Rendered 23 frames total.
+2026-06-16 16:50:14 - Screensaver executed and finished successfully.
+2026-06-17 10:05:47 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\DOWNLO~1\\SCEENS~1\\CMATRI~1.SCR', '/s']
+2026-06-17 10:05:47 - Parsed mode: run, parent_hwnd: None
+2026-06-17 10:05:47 - get_video_path: exe_name is 'cmatri~1.scr'
+2026-06-17 10:05:47 - Resolved video path: C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4
+2026-06-17 10:05:47 - run_screensaver started. video_path=C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4, mode=run, parent_hwnd=None
+2026-06-17 10:05:48 - Pygame initialized.
+2026-06-17 10:05:48 - Allowed screensaver in screensaver Pygame.
+2026-06-17 10:05:48 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-17 10:05:48 - Target display size from pygame info: width=1920, height=1080
+2026-06-17 10:05:48 - Entering full screen display mode initialization...
+2026-06-17 10:05:49 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-17 10:05:49 - Loading video: C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4
+2026-06-17 10:05:49 - Video file opened successfully. Dimensions: 1280x624, FPS: 30.0
+2026-06-17 10:05:49 - Scaled frame size: 1920x936, Offset: (0, 72)
+2026-06-17 10:05:49 - Initial mouse position recorded: (1075, 640)
+2026-06-17 10:05:49 - Entering main screensaver playback loop...
+2026-06-17 10:05:53 - Mouse motion threshold exceeded (dx=20, dy=39, pos=(1055, 601), initial=(1075, 640), elapsed=3.31s). Exiting screensaver.
+2026-06-17 10:05:53 - Exiting run_screensaver. Rendered 53 frames total.
+2026-06-17 10:05:53 - Screensaver executed and finished successfully.
+2026-06-17 11:01:50 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\DOWNLO~1\\SCEENS~1\\CMATRI~1.SCR', '/s']
+2026-06-17 11:01:50 - Parsed mode: run, parent_hwnd: None
+2026-06-17 11:01:50 - get_video_path: exe_name is 'cmatri~1.scr'
+2026-06-17 11:01:50 - Resolved video path: C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4
+2026-06-17 11:01:50 - run_screensaver started. video_path=C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4, mode=run, parent_hwnd=None
+2026-06-17 11:01:50 - Pygame initialized.
+2026-06-17 11:01:50 - Allowed screensaver in screensaver Pygame.
+2026-06-17 11:01:50 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-17 11:01:50 - Target display size from pygame info: width=1920, height=1080
+2026-06-17 11:01:50 - Entering full screen display mode initialization...
+2026-06-17 11:01:50 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-17 11:01:50 - Loading video: C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4
+2026-06-17 11:01:50 - Video file opened successfully. Dimensions: 1280x624, FPS: 30.0
+2026-06-17 11:01:50 - Scaled frame size: 1920x936, Offset: (0, 72)
+2026-06-17 11:01:50 - Initial mouse position recorded: (1054, 878)
+2026-06-17 11:01:50 - Entering main screensaver playback loop...
+2026-06-17 11:01:54 - Mouse motion threshold exceeded (dx=51, dy=9, pos=(1105, 887), initial=(1054, 878), elapsed=3.98s). Exiting screensaver.
+2026-06-17 11:01:54 - Exiting run_screensaver. Rendered 117 frames total.
+2026-06-17 11:01:54 - Screensaver executed and finished successfully.
+2026-06-17 11:38:12 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\DOWNLO~1\\SCEENS~1\\CMATRI~1.SCR', '/s']
+2026-06-17 11:38:12 - Parsed mode: run, parent_hwnd: None
+2026-06-17 11:38:12 - get_video_path: exe_name is 'cmatri~1.scr'
+2026-06-17 11:38:12 - Resolved video path: C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4
+2026-06-17 11:38:12 - run_screensaver started. video_path=C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4, mode=run, parent_hwnd=None
+2026-06-17 11:38:13 - Pygame initialized.
+2026-06-17 11:38:13 - Allowed screensaver in screensaver Pygame.
+2026-06-17 11:38:13 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-17 11:38:13 - Target display size from pygame info: width=1920, height=1080
+2026-06-17 11:38:13 - Entering full screen display mode initialization...
+2026-06-17 11:38:13 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-17 11:38:13 - Loading video: C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4
+2026-06-17 11:38:14 - Video file opened successfully. Dimensions: 1280x624, FPS: 30.0
+2026-06-17 11:38:14 - Scaled frame size: 1920x936, Offset: (0, 72)
+2026-06-17 11:38:14 - Initial mouse position recorded: (960, 540)
+2026-06-17 11:38:14 - Entering main screensaver playback loop...
+2026-06-17 11:38:19 - Mouse motion threshold exceeded (dx=415, dy=73, pos=(545, 613), initial=(960, 540), elapsed=5.27s). Exiting screensaver.
+2026-06-17 11:38:19 - Exiting run_screensaver. Rendered 13 frames total.
+2026-06-17 11:38:21 - Screensaver executed and finished successfully.
+2026-06-17 11:50:34 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\DOWNLO~1\\SCEENS~1\\CMATRI~1.SCR', '/s']
+2026-06-17 11:50:34 - Parsed mode: run, parent_hwnd: None
+2026-06-17 11:50:34 - get_video_path: exe_name is 'cmatri~1.scr'
+2026-06-17 11:50:34 - Resolved video path: C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4
+2026-06-17 11:50:34 - run_screensaver started. video_path=C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4, mode=run, parent_hwnd=None
+2026-06-17 11:50:38 - Pygame initialized.
+2026-06-17 11:50:38 - Allowed screensaver in screensaver Pygame.
+2026-06-17 11:50:38 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-17 11:50:38 - Target display size from pygame info: width=1920, height=1080
+2026-06-17 11:50:38 - Entering full screen display mode initialization...
+2026-06-17 11:50:39 - Initialized FULLSCREEN with DOUBLEBUF.
+2026-06-17 11:50:40 - Loading video: C:\Users\krishna\DOWNLO~1\SCEENS~1\cmatrix_optimized.mp4
+2026-06-17 11:50:40 - Video file opened successfully. Dimensions: 1280x624, FPS: 30.0
+2026-06-17 11:50:40 - Scaled frame size: 1920x936, Offset: (0, 72)
+2026-06-17 11:50:40 - Initial mouse position recorded: (927, 765)
+2026-06-17 11:50:41 - Entering main screensaver playback loop...
+2026-06-17 11:51:09 - Mouse motion threshold exceeded (dx=374, dy=160, pos=(1301, 605), initial=(927, 765), elapsed=28.99s). Exiting screensaver.
+2026-06-17 11:51:09 - Exiting run_screensaver. Rendered 187 frames total.
+2026-06-17 11:51:11 - Screensaver executed and finished successfully.
+2026-06-17 12:23:50 - Screensaver process started. Arguments: ['C:\\Users\\krishna\\Downloads\\Sceensaver\\CMatrixScreensaver.scr', '/p', '854236']
+2026-06-17 12:23:50 - Parsed mode: preview, parent_hwnd: 854236
+2026-06-17 12:23:50 - get_video_path: exe_name is 'cmatrixscreensaver.scr'
+2026-06-17 12:23:50 - Resolved video path: C:\Users\krishna\Downloads\Sceensaver\cmatrix_optimized.mp4
+2026-06-17 12:23:50 - run_screensaver started. video_path=C:\Users\krishna\Downloads\Sceensaver\cmatrix_optimized.mp4, mode=preview, parent_hwnd=854236
+2026-06-17 12:23:52 - Pygame initialized.
+2026-06-17 12:23:52 - Allowed screensaver in screensaver Pygame.
+2026-06-17 12:23:52 - Reset screensaver thread execution state to ES_CONTINUOUS.
+2026-06-17 12:23:52 - Failed to get client rect for preview HWND 854236: (1400, 'GetClientRect', 'Invalid window handle.')
+2026-06-17 12:23:52 - Created preview Pygame window HWND: 461086
+2026-06-17 12:23:52 - CRITICAL EXCEPTION in main: (1400, 'SetParent', 'Invalid window handle.')
+Traceback (most recent call last):
+  File "screensaver.py", line 342, in main
+  File "screensaver.py", line 136, in run_screensaver
+pywintypes.error: (1400, 'SetParent', 'Invalid window handle.')
+
