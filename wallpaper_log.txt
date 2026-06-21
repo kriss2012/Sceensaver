@@ -264,3 +264,13 @@ pywintypes.error: (1400, 'SetParent', 'Invalid window handle.')
 2026-06-19 09:25:39 - Video dimensions: 1920x1080, FPS: 30.0
 2026-06-19 09:25:39 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
 2026-06-19 09:25:39 - Starting main video loop...
+2026-06-19 23:12:41 - Wallpaper script initialized with args: ['c:\\Users\\krishna\\Downloads\\Sceensaver\\live_wallpaper.py']
+2026-06-19 23:12:41 - Created startup shortcut at: C:\Users\krishna\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\HarryPotterLiveWallpaper.lnk
+2026-06-19 23:12:41 - Starting live wallpaper run routine.
+2026-06-19 23:12:41 - Target WorkerW handle identified: 197136
+2026-06-19 23:12:41 - Allowed screensaver in Pygame.
+2026-06-19 23:12:41 - Reset thread execution state to ES_CONTINUOUS.
+2026-06-19 23:12:41 - Desktop resolution detected: 1920x1080
+2026-06-19 23:12:41 - Video dimensions: 1920x1080, FPS: 30.0
+2026-06-19 23:12:41 - Scaling parameters calculated: scale=1920x1080, offset=(0, 0)
+2026-06-19 23:12:41 - Starting main video loop...
