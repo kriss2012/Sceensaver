@@ -1,6 +1,6 @@
 # 🏴‍☠️ Luffy Live Wallpaper & Screensaver
 
-Welcome to the **Luffy Live Wallpaper & Screensaver** project! This repository contains a production-grade, Python-based desktop customization suite for Windows. It provides two fully autonomous components:
+# Welcome to the **Luffy Live Wallpaper & Screensaver** project! This repository contains a production-grade, Python-based desktop customization suite for Windows. It provides two fully autonomous components:
 
 1. **Interactive Screensaver (`.scr`)**: A full-screen video player built using OpenCV and Pygame that handles the native Windows screensaver lifecycle (preview mode, full-screen playback, and settings dialogue).
 2. **Live Wallpaper Engine**: A background daemon that injects an MP4 video stream directly behind desktop icons by interacting with low-level Windows APIs (`user32.dll` and `kernel32.dll` via `win32gui`).
