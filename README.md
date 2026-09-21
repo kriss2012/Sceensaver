@@ -184,3 +184,21 @@ Right-click on `install.ps1` and select **Run with PowerShell**. This will updat
 ### Error 5: Python/Pythonw is not recognized
 * **Why it happens**: Python was installed without checking the "Add to PATH" option.
 * **Solution**: Run the Python installer again, select **Modify**, check the **"Add Python to environment variables"** box, and finish the installation.
+
+---
+
+## Security
+
+Please refer to [SECURITY.md](SECURITY.md) for vulnerability reporting guidelines.
+
+## Contributing
+
+Contributions are welcome! Please review [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and development process.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+Developed and maintained by **[Krishna Patil](https://github.com/kriss2012)**.
